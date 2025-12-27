@@ -385,7 +385,7 @@
       {
         "name": "Mandate of Heaven",
         "access_rules": [
-          "Mandate of Heaven"
+          "Mandate_of_Heaven"
         ],
         "sections": [
           {
@@ -442,7 +442,7 @@
       {
         "name": "Religious Tolerance",
         "access_rules": [
-          "Religious Tolerance"
+          "Religious_Tolerance"
         ],
         "sections": [
           {
@@ -556,7 +556,7 @@
       {
         "name": "Merchant Confederacy",
         "access_rules": [
-          "Merchant Confederacy"
+          "Merchant_Confederacy"
         ],
         "sections": [
           {
