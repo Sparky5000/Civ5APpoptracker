@@ -112,23 +112,20 @@
                 "Radar",
                 "Rocketry",
                 "Advanced_Ballistics",
-                "Future_Tech"
+                "Globalization"
               ],
               [
-                "Globalization",
                 "Lasers",
                 "Mobile_Tactics",
                 "Nanotechnology",
-                "Nuclear_Fusion"
+                "Nuclear_Fusion",
+                "Particle_Physics"
               ],
               [
-                "Particle_Physics",
                 "Robotics",
                 "Satellites",
                 "Stealth",
-                "Telecommunications"
-              ],
-              [
+                "Telecommunications",
                 "The_Internet"
               ]
             ]
