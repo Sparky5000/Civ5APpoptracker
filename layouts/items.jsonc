@@ -1,0 +1,140 @@
+{
+  // sets layouts for shadred items grids
+  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+  "techtree": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "5, 3",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "Agriculture",
+                "Animal_Husbandry",
+                "Archery",
+                "Bronze_Working",
+                "Calendar"
+              ],
+              [
+                "Masonry",
+                "Mining",
+                "Pottery",
+                "Sailing",
+                "The_Wheel"
+              ],
+              [
+                "Trapping",
+                "Writing",
+                "Construction",
+                "Currency",
+                "Drama_and_Poetry"
+              ],
+              [
+                "Engineering",
+                "Horseback_Riding",
+                "Iron_Working",
+                "Mathematics",
+                "Optics"
+              ],
+              [
+                "Philosophy",
+                "Chivalry",
+                "Civil_Service",
+                "Compass",
+                "Education"
+              ],
+              [
+                "Guilds",
+                "Machinery",
+                "Metal_Casting",
+                "Physics",
+                "Steel"
+              ],
+              [
+                "Theology",
+                "Acoustics",
+                "Architecture",
+                "Astronomy",
+                "Banking"
+              ],
+              [
+                "Chemistry",
+                "Economics",
+                "Gunpowder",
+                "Metallurgy",
+                "Navigation"
+              ],
+              [
+                "Printing_Press",
+                "Archaeology",
+                "Biology",
+                "Dynamite",
+                "Electricity"
+              ],
+              [
+                "Fertilizer",
+                "Industrialization",
+                "Military_Science",
+                "Rifling",
+                "Scientific_Theory"
+              ],
+              [
+                "Steam_Power",
+                "Ballistics",
+                "Combustion",
+                "Electronics",
+                "Flight"
+              ],
+              [
+                "Plastics",
+                "Radio",
+                "Railroad",
+                "Refrigeration",
+                "Replaceable_Parts"
+              ],
+              [
+                "Atomic_Theory",
+                "Combined_Arms",
+                "Computers",
+                "Ecology",
+                "Nuclear_Fission"
+              ],
+              [
+                "Penicillin",
+                "Radar",
+                "Rocketry",
+                "Advanced_Ballistics",
+                "Future_Tech"
+              ],
+              [
+                "Globalization",
+                "Lasers",
+                "Mobile_Tactics",
+                "Nanotechnology",
+                "Nuclear_Fusion"
+              ],
+              [
+                "Particle_Physics",
+                "Robotics",
+                "Satellites",
+                "Stealth",
+                "Telecommunications"
+              ],
+              [
+                "The_Internet"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

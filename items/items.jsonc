@@ -1,0 +1,867 @@
+[
+  //Technologies
+  {
+    "name": "Agriculture",
+    "type": "static",
+    "img": "images/items/Agriculture.png",
+    "codes": "Agriculture"
+  },
+  {
+    "name": "Animal Husbandry",
+    "type": "toggle",
+    "img": "images/items/Animal_Husbandry.png",
+    "codes": "Animal_Husbandry"
+  },
+  {
+    "name": "Archery",
+    "type": "toggle",
+    "img": "images/items/Archery.png",
+    "codes": "Archery"
+  },
+  {
+    "name": "Bronze Working",
+    "type": "toggle",
+    "img": "images/items/Bronze_Working.png",
+    "codes": "Bronze_Working"
+  },
+  {
+    "name": "Calendar",
+    "type": "toggle",
+    "img": "images/items/Calendar.png",
+    "codes": "Calendar"
+  },
+  {
+    "name": "Masonry",
+    "type": "toggle",
+    "img": "images/items/Masonry.png",
+    "codes": "Masonry"
+  },
+  {
+    "name": "Mining",
+    "type": "toggle",
+    "img": "images/items/Mining.png",
+    "codes": "Mining"
+  },
+  {
+    "name": "Pottery",
+    "type": "toggle",
+    "img": "images/items/Pottery.png",
+    "codes": "Pottery"
+  },
+  {
+    "name": "Sailing",
+    "type": "toggle",
+    "img": "images/items/Sailing.png",
+    "codes": "Sailing"
+  },
+  {
+    "name": "The Wheel",
+    "type": "toggle",
+    "img": "images/items/The_Wheel.png",
+    "codes": "The_Wheel"
+  },
+  {
+    "name": "Trapping",
+    "type": "toggle",
+    "img": "images/items/Trapping.png",
+    "codes": "Trapping"
+  },
+  {
+    "name": "Writing",
+    "type": "toggle",
+    "img": "images/items/Writing.png",
+    "codes": "Writing"
+  },
+  {
+    "name": "Construction",
+    "type": "toggle",
+    "img": "images/items/Construction.png",
+    "codes": "Construction"
+  },
+  {
+    "name": "Currency",
+    "type": "toggle",
+    "img": "images/items/Currency.png",
+    "codes": "Currency"
+  },
+  {
+    "name": "Drama and Poetry",
+    "type": "toggle",
+    "img": "images/items/Drama_and_Poetry.png",
+    "codes": "Drama_and_Poetry"
+  },
+  {
+    "name": "Engineering",
+    "type": "toggle",
+    "img": "images/items/Engineering.png",
+    "codes": "Engineering"
+  },
+  {
+    "name": "Horseback Riding",
+    "type": "toggle",
+    "img": "images/items/Horseback_Riding.png",
+    "codes": "Horseback_Riding"
+  },
+  {
+    "name": "Iron Working",
+    "type": "toggle",
+    "img": "images/items/Iron_Working.png",
+    "codes": "Iron_Working"
+  },
+  {
+    "name": "Mathematics",
+    "type": "toggle",
+    "img": "images/items/Mathematics.png",
+    "codes": "Mathematics"
+  },
+  {
+    "name": "Optics",
+    "type": "toggle",
+    "img": "images/items/Optics.png",
+    "codes": "Optics"
+  },
+  {
+    "name": "Philosophy",
+    "type": "toggle",
+    "img": "images/items/Philosophy.png",
+    "codes": "Philosophy"
+  },
+  {
+    "name": "Chivalry",
+    "type": "toggle",
+    "img": "images/items/Chivalry.png",
+    "codes": "Chivalry"
+  },
+  {
+    "name": "Civil Service",
+    "type": "toggle",
+    "img": "images/items/Civil_Service.png",
+    "codes": "Civil_Service"
+  },
+  {
+    "name": "Compass",
+    "type": "toggle",
+    "img": "images/items/Compass.png",
+    "codes": "Compass"
+  },
+  {
+    "name": "Education",
+    "type": "toggle",
+    "img": "images/items/Education.png",
+    "codes": "Education"
+  },
+  {
+    "name": "Guilds",
+    "type": "toggle",
+    "img": "images/items/Guilds.png",
+    "codes": "Guilds"
+  },
+  {
+    "name": "Machinery",
+    "type": "toggle",
+    "img": "images/items/Machinery.png",
+    "codes": "Machinery"
+  },
+  {
+    "name": "Metal Casting",
+    "type": "toggle",
+    "img": "images/items/Metal_Casting.png",
+    "codes": "Metal_Casting"
+  },
+  {
+    "name": "Physics",
+    "type": "toggle",
+    "img": "images/items/Physics.png",
+    "codes": "Physics"
+  },
+  {
+    "name": "Steel",
+    "type": "toggle",
+    "img": "images/items/Steel.png",
+    "codes": "Steel"
+  },
+  {
+    "name": "Theology",
+    "type": "toggle",
+    "img": "images/items/Theology.png",
+    "codes": "Theology"
+  },
+  {
+    "name": "Acoustics",
+    "type": "toggle",
+    "img": "images/items/Acoustics.png",
+    "codes": "Acoustics"
+  },
+  {
+    "name": "Architecture",
+    "type": "toggle",
+    "img": "images/items/Architecture.png",
+    "codes": "Architecture"
+  },
+  {
+    "name": "Astronomy",
+    "type": "toggle",
+    "img": "images/items/Astronomy.png",
+    "codes": "Astronomy"
+  },
+  {
+    "name": "Banking",
+    "type": "toggle",
+    "img": "images/items/Banking.png",
+    "codes": "Banking"
+  },
+  {
+    "name": "temp",
+    "type": "toggle",
+    "img": "images/items/temp.png",
+    "codes": "temp"
+  },
+  {
+    "name": "Chemistry",
+    "type": "toggle",
+    "img": "images/items/Chemistry.png",
+    "codes": "Chemistry"
+  },
+  {
+    "name": "Economics",
+    "type": "toggle",
+    "img": "images/items/Economics.png",
+    "codes": "Economics"
+  },
+  {
+    "name": "Gunpowder",
+    "type": "toggle",
+    "img": "images/items/Gunpowder.png",
+    "codes": "Gunpowder"
+  },
+  {
+    "name": "Metallurgy",
+    "type": "toggle",
+    "img": "images/items/Metallurgy.png",
+    "codes": "Metallurgy"
+  },
+  {
+    "name": "Navigation",
+    "type": "toggle",
+    "img": "images/items/Navigation.png",
+    "codes": "Navigation"
+  },
+  {
+    "name": "Printing Press",
+    "type": "toggle",
+    "img": "images/items/Printing_Press.png",
+    "codes": "Printing_Press"
+  },
+  {
+    "name": "Archaeology",
+    "type": "toggle",
+    "img": "images/items/Archaeology.png",
+    "codes": "Archaeology"
+  },
+  {
+    "name": "Biology",
+    "type": "toggle",
+    "img": "images/items/Biology.png",
+    "codes": "Biology"
+  },
+  {
+    "name": "Dynamite",
+    "type": "toggle",
+    "img": "images/items/Dynamite.png",
+    "codes": "Dynamite"
+  },
+  {
+    "name": "Electricity",
+    "type": "toggle",
+    "img": "images/items/Electricity.png",
+    "codes": "Electricity"
+  },
+  {
+    "name": "Fertilizer",
+    "type": "toggle",
+    "img": "images/items/Fertilizer.png",
+    "codes": "Fertilizer"
+  },
+  {
+    "name": "Industrialization",
+    "type": "toggle",
+    "img": "images/items/Industrialization.png",
+    "codes": "Industrialization"
+  },
+  {
+    "name": "Military Science",
+    "type": "toggle",
+    "img": "images/items/Military_Science.png",
+    "codes": "Military_Science"
+  },
+  {
+    "name": "Rifling",
+    "type": "toggle",
+    "img": "images/items/Rifling.png",
+    "codes": "Rifling"
+  },
+  {
+    "name": "Scientific Theory",
+    "type": "toggle",
+    "img": "images/items/Scientific_Theory.png",
+    "codes": "Scientific_Theory"
+  },
+  {
+    "name": "Steam Power",
+    "type": "toggle",
+    "img": "images/items/Steam_Power.png",
+    "codes": "Steam_Power"
+  },
+  {
+    "name": "Ballistics",
+    "type": "toggle",
+    "img": "images/items/Ballistics.png",
+    "codes": "Ballistics"
+  },
+  {
+    "name": "Combustion",
+    "type": "toggle",
+    "img": "images/items/Combustion.png",
+    "codes": "Combustion"
+  },
+  {
+    "name": "Electronics",
+    "type": "toggle",
+    "img": "images/items/Electronics.png",
+    "codes": "Electronics"
+  },
+  {
+    "name": "Flight",
+    "type": "toggle",
+    "img": "images/items/Flight.png",
+    "codes": "Flight"
+  },
+  {
+    "name": "Plastics",
+    "type": "toggle",
+    "img": "images/items/Plastics.png",
+    "codes": "Plastics"
+  },
+  {
+    "name": "Radio",
+    "type": "toggle",
+    "img": "images/items/Radio.png",
+    "codes": "Radio"
+  },
+  {
+    "name": "Railroad",
+    "type": "toggle",
+    "img": "images/items/Railroad.png",
+    "codes": "Railroad"
+  },
+  {
+    "name": "Refrigeration",
+    "type": "toggle",
+    "img": "images/items/Refrigeration.png",
+    "codes": "Refrigeration"
+  },
+  {
+    "name": "Replaceable Parts",
+    "type": "toggle",
+    "img": "images/items/Replaceable_Parts.png",
+    "codes": "Replaceable_Parts"
+  },
+  {
+    "name": "Atomic Theory",
+    "type": "toggle",
+    "img": "images/items/Atomic_Theory.png",
+    "codes": "Atomic_Theory"
+  },
+  {
+    "name": "Combined Arms",
+    "type": "toggle",
+    "img": "images/items/Combined_Arms.png",
+    "codes": "Combined_Arms"
+  },
+  {
+    "name": "Computers",
+    "type": "toggle",
+    "img": "images/items/Computers.png",
+    "codes": "Computers"
+  },
+  {
+    "name": "Ecology",
+    "type": "toggle",
+    "img": "images/items/Ecology.png",
+    "codes": "Ecology"
+  },
+  {
+    "name": "Nuclear Fission",
+    "type": "toggle",
+    "img": "images/items/Nuclear_Fission.png",
+    "codes": "Nuclear_Fission"
+  },
+  {
+    "name": "Penicillin",
+    "type": "toggle",
+    "img": "images/items/Penicillin.png",
+    "codes": "Penicillin"
+  },
+  {
+    "name": "Radar",
+    "type": "toggle",
+    "img": "images/items/Radar.png",
+    "codes": "Radar"
+  },
+  {
+    "name": "Rocketry",
+    "type": "toggle",
+    "img": "images/items/Rocketry.png",
+    "codes": "Rocketry"
+  },
+  {
+    "name": "Advanced_Ballistics",
+    "type": "toggle",
+    "img": "images/items/Advanced_Ballistics.png",
+    "codes": "Advanced_Ballistics"
+  },
+  {
+    "name": "Future Tech",
+    "type": "toggle",
+    "img": "images/items/Future_Tech.png",
+    "codes": "Future_Tech"
+  },
+  {
+    "name": "Globalization",
+    "type": "toggle",
+    "img": "images/items/Globalization.png",
+    "codes": "Globalization"
+  },
+  {
+    "name": "Lasers",
+    "type": "toggle",
+    "img": "images/items/Lasers.png",
+    "codes": "Lasers"
+  },
+  {
+    "name": "Mobile Tactics",
+    "type": "toggle",
+    "img": "images/items/Mobile_Tactics.png",
+    "codes": "Mobile_Tactics"
+  },
+  {
+    "name": "Nanotechnology",
+    "type": "toggle",
+    "img": "images/items/Nanotechnology.png",
+    "codes": "Nanotechnology"
+  },
+  {
+    "name": "Nuclear Fusion",
+    "type": "toggle",
+    "img": "images/items/Nuclear_Fusion.png",
+    "codes": "Nuclear_Fusion"
+  },
+  {
+    "name": "Particle Physics",
+    "type": "toggle",
+    "img": "images/items/Particle_Physics.png",
+    "codes": "Particle_Physics"
+  },
+  {
+    "name": "Robotics",
+    "type": "toggle",
+    "img": "images/items/Robotics.png",
+    "codes": "Robotics"
+  },
+  {
+    "name": "Satellites",
+    "type": "toggle",
+    "img": "images/items/Satellites.png",
+    "codes": "Satellites"
+  },
+  {
+    "name": "Stealth",
+    "type": "toggle",
+    "img": "images/items/Stealth.png",
+    "codes": "Stealth"
+  },
+  {
+    "name": "Telecommunications",
+    "type": "toggle",
+    "img": "images/items/Telecommunications.png",
+    "codes": "Telecommunications"
+  },
+  {
+    "name": "The Internet",
+    "type": "toggle",
+    "img": "images/items/The_Internet.png",
+    "codes": "The_Internet"
+  },
+  // Policies
+  {
+    "name": "Liberty",
+    "type": "toggle",
+    "codes": "Liberty" 
+  },
+  {
+    "name": "Collective Rule",
+    "type": "toggle",
+    "codes": "Collective_Rule" 
+  },
+  {
+    "name": "Citizenship",
+    "type": "toggle",
+    "codes": "Citizenship" 
+  },
+  {
+    "name": "Republic",
+    "type": "toggle",
+    "codes": "Republic" 
+  },
+  {
+    "name": "Representation",
+    "type": "toggle",
+    "codes": "Representation" 
+  },
+  {
+    "name": "Meritocracy",
+    "type": "toggle",
+    "codes": "Meritocracy" 
+  },
+  {
+    "name": "Tradition",
+    "type": "toggle",
+    "codes": "Tradition" 
+  },
+  {
+    "name": "Aristocracy",
+    "type": "toggle",
+    "codes": "Aristocracy" 
+  },
+  {
+    "name": "Oligarchy",
+    "type": "toggle",
+    "codes": "Oligarchy" 
+  },
+  {
+    "name": "Legalism",
+    "type": "toggle",
+    "codes": "Legalism" 
+  },
+  {
+    "name": "Landed Elite",
+    "type": "toggle",
+    "codes": "Landed_Elite" 
+  },
+  {
+    "name": "Monarchy",
+    "type": "toggle",
+    "codes": "Monarchy" 
+  },
+  {
+    "name": "Honor",
+    "type": "toggle",
+    "codes": "Honor" 
+  },
+  {
+    "name": "Warrior Code",
+    "type": "toggle",
+    "codes": "Warrior_Code" 
+  },
+  {
+    "name": "Discipline",
+    "type": "toggle",
+    "codes": "Discipline" 
+  },
+  {
+    "name": "Military Tradition",
+    "type": "toggle",
+    "codes": "Military_Tradition" 
+  },
+  {
+    "name": "Military Caste",
+    "type": "toggle",
+    "codes": "Military_Caste" 
+  },
+  {
+    "name": "Professional Army",
+    "type": "toggle",
+    "codes": "Professional_Army" 
+  },
+  {
+    "name": "Piety",
+    "type": "toggle",
+    "codes": "Piety" 
+  },
+  {
+    "name": "Organized Religion",
+    "type": "toggle",
+    "codes": "Organized_Religion" 
+  },
+  {
+    "name": "Mandate of Heaven",
+    "type": "toggle",
+    "codes": "Mandate_of_Heaven" 
+  },
+  {
+    "name": "Theocracy",
+    "type": "toggle",
+    "codes": "Theocracy" 
+  },
+  {
+    "name": "Reformation",
+    "type": "toggle",
+    "codes": "Reformation" 
+  },
+  {
+    "name": "Religious Tolerance",
+    "type": "toggle",
+    "codes": "Religious_Tolerance" 
+  },
+  {
+    "name": "Patronage",
+    "type": "toggle",
+    "codes": "Patronage" 
+  },
+  {
+    "name": "Philanthropy",
+    "type": "toggle",
+    "codes": "Philanthropy" 
+  },
+  {
+    "name": "Consulates",
+    "type": "toggle",
+    "codes": "Consulates" 
+  },
+  {
+    "name": "Scholasticism",
+    "type": "toggle",
+    "codes": "Scholasticism" 
+  },
+  {
+    "name": "Cultural Diplomacy",
+    "type": "toggle",
+    "codes": "Cultural_Diplomacy" 
+  },
+  {
+    "name": "Merchant Confederacy",
+    "type": "toggle",
+    "codes": "Merchant_Confederacy" 
+  },
+  {
+    "name": "Commerce",
+    "type": "toggle",
+    "codes": "Commerce" 
+  },
+  {
+    "name": "Mercenary Army",
+    "type": "toggle",
+    "codes": "Mercenary_Army" 
+  },
+  {
+    "name": "Entrepreneurship",
+    "type": "toggle",
+    "codes": "Entrepreneurship" 
+  },
+  {
+    "name": "Mercantilism",
+    "type": "toggle",
+    "codes": "Mercantilism" 
+  },
+  {
+    "name": "Wagon Trains",
+    "type": "toggle",
+    "codes": "Wagon_Trains" 
+  },
+  {
+    "name": "Protectionism",
+    "type": "toggle",
+    "codes": "Protectionism" 
+  },
+  {
+    "name": "Rationalism",
+    "type": "toggle",
+    "codes": "Rationalism" 
+  },
+  {
+    "name": "Secularism",
+    "type": "toggle",
+    "codes": "Secularism" 
+  },
+  {
+    "name": "Humanism",
+    "type": "toggle",
+    "codes": "Humanism" 
+  },
+  {
+    "name": "Free Thought",
+    "type": "toggle",
+    "codes": "Free_Thought" 
+  },
+  {
+    "name": "Sovereignty",
+    "type": "toggle",
+    "codes": "Sovereignty" 
+  },
+  {
+    "name": "Scientific Revolution",
+    "type": "toggle",
+    "codes": "Scientific_Revolution" 
+  },
+  {
+    "name": "Tradition Finisher",
+    "type": "toggle",
+    "codes": "Tradition_Finisher" 
+  },
+  {
+    "name": "Liberty Finisher",
+    "type": "toggle",
+    "codes": "Liberty_Finisher" 
+  },
+  {
+    "name": "Honor Finisher",
+    "type": "toggle",
+    "codes": "Honor_Finisher" 
+  },
+  {
+    "name": "Piety Finisher",
+    "type": "toggle",
+    "codes": "Piety_Finisher" 
+  },
+  {
+    "name": "Patronage Finisher",
+    "type": "toggle",
+    "codes": "Patronage_Finisher" 
+  },
+  {
+    "name": "Commerce Finisher",
+    "type": "toggle",
+    "codes": "Commerce_Finisher" 
+  },
+  {
+    "name": "Rationalism Finisher",
+    "type": "toggle",
+    "codes": "Rationalism_Finisher" 
+  },
+  {
+    "name": "Aesthetics",
+    "type": "toggle",
+    "codes": "Aesthetics" 
+  },
+  {
+    "name": "Cultural Centers",
+    "type": "toggle",
+    "codes": "Cultural_Centers" 
+  },
+  {
+    "name": "Fine Arts",
+    "type": "toggle",
+    "codes": "Fine_Arts" 
+  },
+  {
+    "name": "Flourishing of the Arts",
+    "type": "toggle",
+    "codes": "Flourishing_of_the_Arts" 
+  },
+  {
+    "name": "Artistic Genius",
+    "type": "toggle",
+    "codes": "Artistic_Genius" 
+  },
+  {
+    "name": "Cultural Exchange",
+    "type": "toggle",
+    "codes": "Cultural_Exchange" 
+  },
+  {
+    "name": "Aesthetics Finisher",
+    "type": "toggle",
+    "codes": "Aesthetics_Finisher" 
+  },
+  {
+    "name": "Exploration",
+    "type": "toggle",
+    "codes": "Exploration" 
+  },
+  {
+    "name": "Maritime Infrastructure",
+    "type": "toggle",
+    "codes": "Maritime_Infrastructure" 
+  },
+  {
+    "name": "Naval Tradition",
+    "type": "toggle",
+    "codes": "Naval_Tradition" 
+  },
+  {
+    "name": "Merchant Navy",
+    "type": "toggle",
+    "codes": "Merchant_Navy" 
+  },
+  {
+    "name": "Navigation School",
+    "type": "toggle",
+    "codes": "Navigation_School" 
+  },
+  {
+    "name": "Treasure Fleets",
+    "type": "toggle",
+    "codes": "Treasure_Fleets" 
+  },
+  {
+    "name": "Exploration Finisher",
+    "type": "toggle",
+    "codes": "Exploration_Finisher" 
+  },
+// Progressive Technologies
+  {
+    "name": "Growth",
+    "type": "progressive",
+    "codes": "Prog_Growth"
+  },
+  {
+    "name": "Production",
+    "type": "progressive",
+    "codes": "Prog_Production" 
+  },
+  {
+    "name": "Science",
+    "type": "progressive",
+    "codes": "Prog_Science" 
+  },
+  {
+    "name": "Culture",
+    "type": "progressive",
+    "codes": "Prog_Culture" 
+  },
+  {
+    "name": "Gold",
+    "type": "progressive",
+    "codes": "Prog_Gold" 
+  },
+  {
+    "name": "Happiness",
+    "type": "progressive",
+    "codes": "Prog_Happiness" 
+  },
+  {
+    "name": "Navy",
+    "type": "progressive",
+    "codes": "Prog_Navy" 
+  },
+  {
+    "name": "Melee Unit",
+    "type": "progressive",
+    "codes": "Prog_M_Unit" 
+  },
+  {
+    "name": "Ranged Unit",
+    "type": "progressive",
+    "codes": "Prog_R_Unit" 
+  },
+  {
+    "name": "Siege Unit",
+    "type": "progressive",
+    "codes": "Prog_S_Unit" 
+  },
+  {
+    "name": "Misc",
+    "type": "progressive",
+    "codes": "Prog_Misc" 
+  }
+]

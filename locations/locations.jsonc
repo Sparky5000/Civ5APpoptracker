@@ -1,0 +1,1204 @@
+[
+  {
+    "name": "Policies",
+    "children": [
+      {
+        "name": "Liberty",
+        "access_rules": [
+          "Liberty"
+        ],
+        "sections": [
+          {
+            "name": "Provides 1 Culture in every city. Unlocks building the Pyramids",
+            "chest_unopened_img":"images/items/Liberty.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 240,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Collective Rule",
+        "access_rules": [
+          "Collective_Rule"
+        ],
+        "sections": [
+          {
+            "name":"Speeds the training of Settlers by 50% in the Capital and a free Settler appears near the Capital.",
+            "chest_unopened_img":"images/items/Collective_Rule.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 216,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Citizenship",
+        "access_rules": [
+          "Citizenship"
+        ],
+        "sections": [
+          {
+            "name":"Tile improvement construction rate increased by 25% and a Worker appears near the Capital.",
+            "chest_unopened_img":"images/items/Citizenship.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 287,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Republic",
+        "access_rules": [
+          "Republic"
+        ],
+        "sections": [
+          {
+            "name": "+1 Production in every City and +5% Production in cities when constructing Buildings.",
+            "chest_unopened_img": "images/items/Republic.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 216,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Representation",
+        "access_rules": [
+          "Representation"
+        ],
+        "sections": [
+          {
+            "name":"Each city you found will increase the Culture cost of policies by 33% less than normal. Also starts a Golden Age.",
+            "chest_unopened_img":"images/items/Representation.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 263,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Meritocracy",
+        "access_rules": [
+          "Meritocracy"
+        ],
+        "sections": [
+          {
+            "name":"+1 Happiness for each City you own connected to the Capital and -5% Unhappiness from Citizens in non-occupied Cities.",
+            "chest_unopened_img":"images/items/Meritocracy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 311,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Tradition",
+        "access_rules": [
+          "Tradition"
+        ],
+        "sections": [
+          {
+            "name":"Increases the rate of border expansion in cities by 25% and also grants +3 Culture in the Capital. Unlocks building the Hanging Gardens",
+            "chest_unopened_img":"images/items/Tradition.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 73,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Aristocracy",
+        "access_rules": [
+          "Aristocracy"
+        ],
+        "sections": [
+          {
+            "name":"+15% Production when building Wonders and +1 Happiness for every 10 Citizens in a City.",
+            "chest_unopened_img":"images/items/Aristocracy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 50,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Oligarchy",
+        "access_rules": [
+          "Oligarchy"
+        ],
+        "sections": [
+          {
+            "name":"Garrisoned units cost no maintenance and cities with a garrison gain +50% Ranged Combat Strength.",
+            "chest_unopened_img":"images/items/Oligarchy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 98,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Legalism",
+        "access_rules": [
+          "Legalism"
+        ],
+        "sections": [
+          {
+            "name":"Provides a free culture building in your first 4 cities.",
+            "chest_unopened_img":"images/items/Legalism.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 98,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Landed Elite",
+        "access_rules": [
+          "Landed_Elite"
+        ],
+        "sections": [
+          {
+            "name":"+10% Growth and +2 Food in the Capital.",
+            "chest_unopened_img":"images/items/Landed_Elite.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 73,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "name": "Monarchy",
+        "access_rules": [
+          "Monarchy"
+        ],
+        "sections": [
+          {
+            "name":"+1 Gold and -1 Unhappiness for every 2 Citizens in the Capital.",
+            "chest_unopened_img":"images/items/Monarchy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 122,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "name": "Honor",
+        "access_rules": [
+          "Honor"
+        ],
+        "sections": [
+          {
+            "name":"Gives a +33% combat bonus against Barbarians. Gain Culture for the empire from each barbarian unit killed. Unlocks building the Statue of Zeus.",
+            "chest_unopened_img":"images/items/Honor.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 406,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Warrior Code",
+        "access_rules": [
+          "Warrior_Code"
+        ],
+        "sections": [
+          {
+            "name":"+15% Production when training Melee units and a Great General appears outside the Capital. Great Generals are earned 50% faster",
+            "chest_unopened_img":"images/items/Warrior_Code.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 406,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Discipline",
+        "access_rules": [
+          "Discipline"
+        ],
+        "sections": [
+          {
+            "name":"+15% combat strength for melee units which have another military unit in an adjacent tile.",
+            "chest_unopened_img":"images/items/Discipline.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 453,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Military Tradition",
+        "access_rules": [
+          "Military_Tradition"
+        ],
+        "sections": [
+          {
+            "name":"Military Units gain 50% more Experience from combat.",
+            "chest_unopened_img":"images/items/Military_Tradition.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 406,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Military Caste",
+        "access_rules": [
+          "Military_Caste"
+        ],
+        "sections": [
+          {
+            "name":"Each City with a garrison increases local city Happiness by 1 and Culture by 2.",
+            "chest_unopened_img":"images/items/Military_Caste.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 453,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Professional Army",
+        "access_rules": [
+          "Professional_Army"
+        ],
+        "sections": [
+          {
+            "name":"Gold cost of upgrading Military Units reduced by 33%, +1 City Happiness from every defensive building, and Construct Barracks, Armories, and Military Academies 50% faster.",
+            "chest_unopened_img":"images/items/Professional_Army.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 453,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "name": "Piety",
+        "access_rules": [
+          "Piety"
+        ],
+        "sections": [
+          {
+            "name":"Reduces the time to build Culture buildings bt 15%, Shrines and Temples by 50%, and Unlocks building the Great Mosque of Djenne",
+            "chest_unopened_img":"images/items/Piety.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 572,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Organized Religion",
+        "access_rules": [
+          "Organized_Religion"
+        ],
+        "sections": [
+          {
+            "name":"+1 Happiness from Monuments, Temples, and Monasteries and +1 Faith from Shrines and Temples.",
+            "chest_unopened_img":"images/items/Organized_Religion.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 572,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Mandate of Heaven",
+        "access_rules": [
+          "Mandate of Heaven"
+        ],
+        "sections": [
+          {
+            "name":"50% of excess Happiness added each turn to the amount of Culture that may be spent on Social Policies. 20% discount on all purchases of religious units and buildings with Faith",
+            "chest_unopened_img":"images/items/Mandate_of_Heaven.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 642,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Theocracy",
+        "access_rules": [
+          "Theocracy"
+        ],
+        "sections": [
+          {
+            "name":"Temples increase a cities Gold output by 25%. Holy Sites provide +3 Gold",
+            "chest_unopened_img":"images/items/Theocracy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 547,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Reformation",
+        "access_rules": [
+          "Reformation"
+        ],
+        "sections": [
+          {
+            "name":"Culture increased by 33% in all cities which have built a World Wonder and the empire immediately enters a Golden Age. If you founded a religion, gain a bonus Reformation belief",
+            "chest_unopened_img":"images/items/Reformation.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 595,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "name": "Religious Tolerance",
+        "access_rules": [
+          "Religious Tolerance"
+        ],
+        "sections": [
+          {
+            "name":"Reduces the Culture cost of future Policies by 10%. Cities with a majority religion also get the Pantheon belief bonus of the second most popular religion",
+            "chest_unopened_img":"images/items/Religious_Tolerance.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 595,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Patronage",
+        "access_rules": [
+          "Patronage"
+        ],
+        "sections": [
+          {
+            "name":"Will cause Influence with City-States to degrade 25% slower than normal. Unlocks building the Forbidden Palace",
+            "chest_unopened_img":""
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 737,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Philanthropy",
+        "access_rules": [
+          "Philanthropy"
+        ],
+        "sections": [
+          {
+            "name":"Gifts of Gold to a City-State generate 25% more Influence.",
+            "chest_unopened_img":"images/items/Philanthropy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 737,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Consulates",
+        "access_rules": [
+          "Consulates"
+        ],
+        "sections": [
+          {
+            "name":"Resting point for Influence level with all City-States is increased by 20.",
+            "chest_unopened_img":"images/items/Consulates.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 785,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Scholasticism",
+        "access_rules": [
+          "Scholasticism"
+        ],
+        "sections": [
+          {
+            "name":"All City-States which are Allies provide a Science bonus equal to 25% of what they produce for themselves.",
+            "chest_unopened_img":"images/items/Scholasticism.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 737,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Cultural Diplomacy",
+        "access_rules": [
+          "Cultural_Diplomacy"
+        ],
+        "sections": [
+          {
+            "name":"Quantity of Resources gifted by City-States increased by 100%. Happiness from gifted Luxuries increased by 50%.",
+            "chest_unopened_img":"images/items/Cultural_Diplomacy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 737,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "name": "Merchant Confederacy",
+        "access_rules": [
+          "Merchant Confederacy"
+        ],
+        "sections": [
+          {
+            "name":"Allied City-States will occasionally gift you Great People. +2 Gold Gold for trade routes with City-States",
+            "chest_unopened_img":"images/items/Merchant_Confederacy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 785,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "name": "Commerce",
+        "access_rules": [
+          "Commerce"
+        ],
+        "sections": [
+          {
+            "name":"Boosts Gold output in Capital City by 25%. Unlocks building Big Ben",
+            "chest_unopened_img":"images/items/Commerce.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 571,
+            "y": 312
+          }
+        ]
+      },
+      {
+        "name": "Mercenary Army",
+        "access_rules": [
+          "Mercenary_Army"
+        ],
+        "sections": [
+          {
+            "name":"Allows the purchasing of Landsknechts.",
+            "chest_unopened_img":"images/items/Mercenary_Army.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 619,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Entrepreneurship",
+        "access_rules": [
+          "Entrepreneurship"
+        ],
+        "sections": [
+          {
+            "name":"Great Merchants are earned 25% faster. Receive double Gold from Great Merchant trade missions.",
+            "chest_unopened_img":"images/items/Entrepreneurship.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 571,
+            "y": 421
+          }
+        ]
+      },
+      {
+        "name": "Mercantilism",
+        "access_rules": [
+          "Mercantilism"
+        ],
+        "sections": [
+          {
+            "name":"Purchasing items in Cities requires 25% less Gold. +1 Science from every Mint, Market, Bank and Stock Exchange",
+            "chest_unopened_img":"images/items/Mercantilism.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 619,
+            "y": 421
+          }
+        ]
+      },
+      {
+        "name": "Wagon Trains",
+        "access_rules": [
+          "Wagon_Trains"
+        ],
+        "sections": [
+          {
+            "name":"+2 Gold from all your Land Trade Routes (with foreign nations). Maintenance paid on Roads and Railroads reduced by 50%.",
+            "chest_unopened_img":"images/items/Wagon_Trains.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 571,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Protectionism",
+        "access_rules": [
+          "Protectionism"
+        ],
+        "sections": [
+          {
+            "name":"+2 Happiness from each Luxury Resource.",
+            "chest_unopened_img":"images/items/Protectionism.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 619,
+            "y": 479
+          }
+        ]
+      },
+      {
+        "name": "Rationalism",
+        "access_rules": [
+          "Rationalism"
+        ],
+        "sections": [
+          {
+            "name":"Boosts Science by +10% while the empire is Happy. Unlocks building the Porcelain Tower",
+            "chest_unopened_img":"images/items/Rationalism.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 240,
+            "y": 312
+          }
+        ]
+      },
+      {
+        "name": "Secularism",
+        "access_rules": [
+          "Secularism"
+        ],
+        "sections": [
+          {
+            "name":"+2 Science Science from every Specialist.",
+            "chest_unopened_img":"images/items/Secularism.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 240,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Humanism",
+        "access_rules": [
+          "Humanism"
+        ],
+        "sections": [
+          {
+            "name":"+1 city Happiness for every University, Observatory and Public School. Great Scientists are earned 25% faster",
+            "chest_unopened_img":"images/items/Humanism.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 287,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Free Thought",
+        "access_rules": [
+          "Free_Thought"
+        ],
+        "sections": [
+          {
+            "name":"+1 Science from every Trading Post and +17% Science from Universities.",
+            "chest_unopened_img":"images/items/Free_Thought.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 287,
+            "y": 421
+          }
+        ]
+      },
+      {
+        "name": "Sovereignty",
+        "access_rules": [
+          "Sovereignty"
+        ],
+        "sections": [
+          {
+            "name":"+15% Science while your empire is Happy and +1 Gold from Science buildings",
+            "chest_unopened_img":"images/items/Sovereignty.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 240,
+            "y": 421
+          }
+        ]
+      },
+      {
+        "name": "Scientific Revolution",
+        "access_rules": [
+          "Scientific_Revolution"
+        ],
+        "sections": [
+          {
+            "name":"Gives 2 free Technologies and Boosts Science gained from Research Agreements by 50%",
+            "chest_unopened_img":"images/items/Scientific_Revolution.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 240,
+            "y": 479
+          }
+        ]
+      },
+      {
+        "name": "Tradition Finisher",
+        "access_rules": [
+          "Tradition_Finisher"
+        ],
+        "sections": [
+          {
+            "name":"Grants +15% Food Growth in all cities and A free Aqueduct in your first four cities. It also allows the purchase of Great Engineers with Faith starting in the Industrial Era.",
+            "chest_unopened_img":"images/items/Tradition_Finisher.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 122,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Liberty Finisher",
+        "access_rules": [
+          "Liberty_Finisher"
+        ],
+        "sections": [
+          {
+            "name":"Grants a free Great Person of your choice near the Capital.",
+            "chest_unopened_img":"images/items/Liberty_Finisher.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 287,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Honor Finisher",
+        "access_rules": [
+          "Honor_Finisher"
+        ],
+        "sections": [
+          {
+            "name":"Grants Gold for each enemy unit killed. It also allows the purchase of Great Generals with Faith starting from the Industrial Era",
+            "chest_unopened_img":"images/items/Honor_Finisher.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 453,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Piety Finisher",
+        "access_rules": [
+          "Piety_Finisher"
+        ],
+        "sections": [
+          {
+            "name":"Causes a Great Prophet to appear and Holy Sites provide +3 Culture",
+            "chest_unopened_img":"images/items/Piety_Finisher.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 619,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Patronage Finisher",
+        "access_rules": [
+          "Patronage_Finisher"
+        ],
+        "sections": [
+          {
+            "name":"Makes other players influence with City-States decrease 33% more per turn and causes allied City-States to occasionally gift you Great People",
+            "chest_unopened_img":"images/items/Patronage_Finisher.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 785,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Commerce Finisher",
+        "access_rules": [
+          "Commerce_Finisher"
+        ],
+        "sections": [
+          {
+            "name":"Grants +1 Gold from every Trading Post and double Gold from Great Merchant trade missions. It also allows the purchase of Great Merchants with Faith starting in the Industrial Era",
+            "chest_unopened_img":"images/items/Commerce_Finisher.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 619,
+            "y": 312
+          }
+        ]
+      },
+      {
+        "name": "Rationalism Finisher",
+        "access_rules": [
+          "Rationalism_Finisher"
+        ],
+        "sections": [
+          {
+            "name":"Grants a free Technology. It also allows the purchase of Great Scientists with Faith starting in the Industrial Era",
+            "chest_unopened_img":"images/items/Rationalism_Finisher.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 287,
+            "y": 312
+          }
+        ]
+      },
+      {
+        "name": "Aesthetics",
+        "access_rules": [
+          "Aesthetics"
+        ],
+        "sections": [
+          {
+            "name":"Allows you to earn Great Writers, Artists, and Musicians 25% faster. Unlocks building the Uffizi.",
+            "chest_unopened_img":"images/items/Aesthetics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 737,
+            "y": 312
+          }
+        ]
+      },
+      {
+        "name": "Cultural Centers",
+        "access_rules": [
+          "Cultural_Centers"
+        ],
+        "sections": [
+          {
+            "name":"Construct Monuments, Amphitheaters, Opera Houses, Museums and Broadcast Towers 50% faster.",
+            "chest_unopened_img":"images/items/Cultural_Centers.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 737,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Fine Arts",
+        "access_rules": [
+          "Fine_Arts"
+        ],
+        "sections": [
+          {
+            "name":"50% of excess Happiness added each turn to the amount of Culture that may be spent on Social Policies or Ideological Tenets.",
+            "chest_unopened_img":"images/items/Fine_Arts.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 785,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Flourishing of the Arts",
+        "access_rules": [
+          "Flourishing_of_the_Arts"
+        ],
+        "sections": [
+          {
+            "name":"Culture increased by 33% in all cities which have built a World Wonder and the empire immediately enters a Golden Age.",
+            "chest_unopened_img":"images/items/Flourishing_of_the_Arts.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 737,
+            "y": 421
+          }
+        ]
+      },
+      {
+        "name": "Artistic Genius",
+        "access_rules": [
+          "Artistic_Genius"
+        ],
+        "sections": [
+          {
+            "name":"A Great Artist appears.",
+            "chest_unopened_img":"images/items/Artistic_Genius.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 785,
+            "y": 421
+          }
+        ]
+      },
+      {
+        "name": "Cultural Exchange",
+        "access_rules": [
+          "Cultural_Exchange"
+        ],
+        "sections": [
+          {
+            "name":"Increases the Tourism modifier for Shared Religion, Trade Routes, and Open Borders by 15% each.",
+            "chest_unopened_img":"images/items/Cultural_Exchange.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 737,
+            "y": 479
+          }
+        ]
+      },
+      {
+        "name": "Aesthetics Finisher",
+        "access_rules": [
+          "Aesthetics_Finisher"
+        ],
+        "sections": [
+          {
+            "name":"Doubles the theming bonus you receive from Museums and Wonders. It also allows the purchase of Great Writers, Artists, or Musicians with Faith starting in the Industrial Era.",
+            "chest_unopened_img":"images/items/Aesthetics_Finisher.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 785,
+            "y": 312
+          }
+        ]
+      },
+      {
+        "name": "Exploration",
+        "access_rules": [
+          "Exploration"
+        ],
+        "sections": [
+          {
+            "name":"Gives +1 Movement for Naval units and +1 Sight for Naval Combat units. Unlocks building the Louvre.",
+            "chest_unopened_img":"images/items/Exploration.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 406,
+            "y": 312
+          }
+        ]
+      },
+      {
+        "name": "Maritime Infrastructure",
+        "access_rules": [
+          "Maritime_Infrastructure"
+        ],
+        "sections": [
+          {
+            "name":"+3 Production in all coastal Cities.",
+            "chest_unopened_img":"images/items/Maritime_Infrastructure.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 406,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Naval Tradition",
+        "access_rules": [
+          "Naval_Tradition"
+        ],
+        "sections": [
+          {
+            "name":"+1 Happiness for each Harbor, Seaport, or Lighthouse.",
+            "chest_unopened_img":"images/items/Naval_Tradition.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 406,
+            "y": 421
+          }
+        ]
+      },
+      {
+        "name": "Merchant Navy",
+        "access_rules": [
+          "Merchant_Navy"
+        ],
+        "sections": [
+          {
+            "name":"+1 Gold for each Harbor, Seaport, or Lighthouse, +4 Production and +4 Culture in the city with the East India Company.",
+            "chest_unopened_img":"images/items/Merchant_Navy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 453,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Navigation School",
+        "access_rules": [
+          "Navigation_School"
+        ],
+        "sections": [
+          {
+            "name":"A Great Admiral appears. +2 Movement for all Great Admirals. Great Admirals are earned 50% faster.",
+            "chest_unopened_img":"images/items/Navigation_School.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 453,
+            "y": 421
+          }
+        ]
+      },
+      {
+        "name": "Treasure Fleets",
+        "access_rules": [
+          "Treasure_Fleets"
+        ],
+        "sections": [
+          {
+            "name":"+4 Gold from all your Sea Trade Routes.",
+            "chest_unopened_img":"images/items/Treasure_Fleets.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 406,
+            "y": 479
+          }
+        ]
+      },
+      {
+        "name": "Exploration Finisher",
+        "access_rules": [
+          "Exploration_Finisher"
+        ],
+        "sections": [
+          {
+            "name":"Allows you to see Hidden Antiquity Sites. It also allows the purchase of Great Admirals with Faith starting in the Industrial Era.",
+            "chest_unopened_img":"images/items/Exploration_Finisher.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Policies",
+            "x": 453,
+            "y": 312
+          }
+        ]
+      }
+    ]
+  }
+]
