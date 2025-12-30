@@ -9,24 +9,43 @@
       "dropshadow": true,
       "content": [
         {
-          "type": "dock",
-          "dock": "left",
-          "v_alignment": "stretch",
-          "content": [
-            {
-              "type": "group",
-              "header": "Technologies",
-              "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "techtree"
-              }
-            }
-          ]
-        },
-        {
           "type": "tabbed",
           "tabs": [
+            {
+              "title": "Technologies",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Ancient Classical",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "AnciClassEra"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Medieval Rennaissance Industrial",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "MediRennaiInduEra"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Modern Atomic Information",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "ModAtomInfoEra"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
             {
               "title": "Policies",
               "content": {

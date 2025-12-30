@@ -1,4 +1,5 @@
 [
+  // Policies
   {
     "name": "Policies",
     "children": [
@@ -1196,6 +1197,1540 @@
             "map": "Policies",
             "x": 453,
             "y": 312
+          }
+        ]
+      }
+    ]
+  },
+  // Technologies
+  {
+    "name": "Technologies",
+    "children": [
+      // Ancient Era
+      {
+        "name": "Agriculture",
+        "access_rules": [
+          "Agriculture"
+        ],
+        "sections": [
+          {
+            "name": "Allows Workers to construct Farms",
+            "chest_unopened_img":"images/items/Agriculture.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 56,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "Animal Husbandry",
+        "access_rules": [
+          "Animal_Husbandry"
+        ],
+        "sections": [
+          {
+            "name": "Reveals Horsees. Allows access to various animal resources via the Pasture.",
+            "chest_unopened_img":"images/items/Animal_Husbandry.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 276,
+            "y": 201
+          }
+        ]
+      },
+      {
+        "name": "Archery",
+        "access_rules": [
+          "Archery"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the Archer",
+            "chest_unopened_img":"images/items/Archery.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 276,
+            "y": 282
+          }
+        ]
+      },
+      {
+        "name": "Bronze Working",
+        "access_rules": [
+          "Bronze_Working"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Spearman and construction of the Barracks. It also allows your Workers to chop down Jungles",
+            "chest_unopened_img":"images/items/Bronze_Working.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 496,
+            "y": 405
+          }
+        ]
+      },
+      {
+        "name": "Calendar",
+        "access_rules": [
+          "Calendar"
+        ],
+        "sections": [
+          {
+            "name": "Allows Workers to construct Plantations, It also allows the construction of Stone Works in cities with sources of Marble or Stone",
+            "chest_unopened_img":"images/items/Calendar.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 496,
+            "y": 78
+          }
+        ]
+      },
+      {
+        "name": "Masonry",
+        "access_rules": [
+          "Masonry"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of Walls, It also allows Workers to construct Quarries and clear Marshes",
+            "chest_unopened_img":"images/items/Masonry.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 496,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Mining",
+        "access_rules": [
+          "Mining"
+        ],
+        "sections": [
+          {
+            "name": "Allows Workers to construct Mines, as well as chop down Forests",
+            "chest_unopened_img":"images/items/Mining.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 276,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Pottery",
+        "access_rules": [
+          "Pottery"
+        ],
+        "sections": [
+          {
+            "name": "allows construction of the Granary and Shrine",
+            "chest_unopened_img":"images/items/Pottery.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 276,
+            "y": 78
+          }
+        ]
+      },
+      {
+        "name": "Sailing",
+        "access_rules": [
+          "Sailing"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Triremes, and to access water-based resources by building Work Boats, only gives access to coastal waters",
+            "chest_unopened_img":"images/items/Sailing.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 496,
+            "y": 38
+          }
+        ]
+      },
+      {
+        "name": "The Wheel",
+        "access_rules": [
+          "The_Wheel"
+        ],
+        "sections": [
+          {
+            "name": "Allows Workers to construct Roads. Also allows production of Chariot Archers and construction of Water Mills",
+            "chest_unopened_img":"images/items/The_Wheel.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 496,
+            "y": 282
+          }
+        ]
+      },
+      {
+        "name": "Trapping",
+        "access_rules": [
+          "Trapping"
+        ],
+        "sections": [
+          {
+            "name": "Allows your Workers to build Camps. Also allows the construction of the Circus",
+            "chest_unopened_img":"images/items/Trapping.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 496,
+            "y": 201
+          }
+        ]
+      },
+      {
+        "name": "Writing",
+        "access_rules": [
+          "Writing"
+        ],
+        "sections": [
+          {
+            "name": "Allows constructing the Library and allows embassies to be established in other civilizations",
+            "chest_unopened_img":"images/items/Writing.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 496,
+            "y": 119
+          }
+        ]
+      },
+      // Classical Era
+      {
+        "name": "Construction",
+        "access_rules": [
+          "Construction"
+        ],
+        "sections": [
+          {
+            "name": "Allows your Workers to construct the Lumber Mill. It also allows the construction of the Colosseum and Composite Bowman",
+            "chest_unopened_img":"images/items/Construction.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 716,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Currency",
+        "access_rules": [
+          "Currency"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of the Market and the Mint",
+            "chest_unopened_img":"images/items/Currency.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 935,
+            "y": 282
+          }
+        ]
+      },
+      {
+        "name": "Drama and Poetry",
+        "access_rules": [
+          "Drama_and_Poetry"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of the Amphitheatre and Writers Guild",
+            "chest_unopened_img":"images/items/Drama_and_Poetry.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 935,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Engineering",
+        "access_rules": [
+          "Engineering"
+        ],
+        "sections": [
+          {
+            "name": "Allows roads to bridge over rivers and Workers can now build Forts. Also allows construction of Aquaducts",
+            "chest_unopened_img":"images/items/Engineering.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 935,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Horseback Riding",
+        "access_rules": [
+          "Horseback_Riding"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Horsemen, as well as construction of Stables and Caravansary.",
+            "chest_unopened_img":"images/items/Horseback_Riding.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 716,
+            "y": 201
+          }
+        ]
+      },
+      {
+        "name": "Iron Working",
+        "access_rules": [
+          "Iron_Working"
+        ],
+        "sections": [
+          {
+            "name": "Reveals Iron. Allows production of Swordsmen",
+            "chest_unopened_img":"images/items/Iron_Working.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 935,
+            "y": 405
+          }
+        ]
+      },
+      {
+        "name": "Mathematics",
+        "access_rules": [
+          "Mathematics"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Catapults and construction of the Courthouse",
+            "chest_unopened_img":"images/items/Mathematics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 716,
+            "y": 282
+          }
+        ]
+      },
+      {
+        "name": "Optics",
+        "access_rules": [
+          "Optics"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of the Lighthouse and allows land units to embark",
+            "chest_unopened_img":"images/items/Optics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 716,
+            "y": 38
+          }
+        ]
+      },
+      {
+        "name": "Philosophy",
+        "access_rules": [
+          "Philosophy"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of the Temple",
+            "chest_unopened_img":"images/items/Philosophy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AnciClassEra",
+            "x": 935,
+            "y": 78
+          }
+        ]
+      },
+      // Medieval Era
+      {
+        "name": "Chivalry",
+        "access_rules": [
+          "Chivalry"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Knights and construction of the Castle and signing of Defensive Pacts",
+            "chest_unopened_img":"images/items/Chivalry.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 258,
+            "y": 242
+          }
+        ]
+      },
+      {
+        "name": "Civil Service",
+        "access_rules": [
+          "Civil_Service"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Pikemen, improves Food produced by Farms in tile next to fresh water and Allows the signing of Open Borders treaties",
+            "chest_unopened_img":"images/items/Civil_Service.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 38,
+            "y": 201
+          }
+        ]
+      },
+      {
+        "name": "Compass",
+        "access_rules": [
+          "Compass"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of the Harbor and production of the Galleass",
+            "chest_unopened_img":"images/items/Compass.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 258,
+            "y": 38
+          }
+        ]
+      },
+      {
+        "name": "Education",
+        "access_rules": [
+          "Education"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of Universities and the ability to enter Researh Agreements with other civilizations",
+            "chest_unopened_img":"images/items/Education.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 258,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Guilds",
+        "access_rules": [
+          "Guilds"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of Trading Posts and the Artists' Guild. Allows the conversion of Production to Gold in cities",
+            "chest_unopened_img":"images/items/Guilds.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 38,
+            "y": 282
+          }
+        ]
+      },
+      {
+        "name": "Machinery",
+        "access_rules": [
+          "Machinery"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Crossbowmen and faster movement on roads",
+            "chest_unopened_img":"images/items/Machinery.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 258,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Metal Casting",
+        "access_rules": [
+          "Metal_Casting"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of the Workshop and Forge",
+            "chest_unopened_img":"images/items/Metal_Casting.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 38,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Physics",
+        "access_rules": [
+          "Physics"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Trebuchats and Construction of the Notre Dame",
+            "chest_unopened_img":"images/items/Physics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 258,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Steel",
+        "access_rules": [
+          "Steel"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Longswordsmen and Construction of the Armory",
+            "chest_unopened_img":"images/items/Steel.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 258,
+            "y": 405
+          }
+        ]
+      },
+      {
+        "name": "Theology",
+        "access_rules": [
+          "Theology"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of a number of religion-oriented Wonders and the Garden",
+            "chest_unopened_img":"images/items/Theology.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 38,
+            "y": 78
+          }
+        ]
+      },
+      // Rennaissance Era
+      {
+        "name": "Acoustics",
+        "access_rules": [
+          "Acoustics"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of the Opera House and Musicians Guild",
+            "chest_unopened_img":"images/items/Acoustics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 477,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "access_rules": [
+          "Architecture"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction a number of Wonders",
+            "chest_unopened_img":"images/items/Architecture.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 697,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Astronomy",
+        "access_rules": [
+          "Astronomy"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Caravels, Embarked units may now enter deep waters. Allows construction of the Observatory",
+            "chest_unopened_img":"images/items/Astronomy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 477,
+            "y": 78
+          }
+        ]
+      },
+      {
+        "name": "Banking",
+        "access_rules": [
+          "Banking"
+        ],
+        "sections": [
+          {
+            "name": "Allows Construction of Constabularies, Banks and a number of Gold-oriented Wonders",
+            "chest_unopened_img":"images/items/Banking.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 477,
+            "y": 242
+          }
+        ]
+      },
+      {
+        "name": "Chemistry",
+        "access_rules": [
+          "Chemistry"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Cannons and gives +1 Production to Mines, Quarries and Manufactories",
+            "chest_unopened_img":"images/items/Chemistry.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 697,
+            "y": 405
+          }
+        ]
+      },
+      {
+        "name": "Economics",
+        "access_rules": [
+          "Economics"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of Winmills and gives +1 Gold from Camps and Trading Posts",
+            "chest_unopened_img":"images/items/Economics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 697,
+            "y": 242
+          }
+        ]
+      },
+      {
+        "name": "Gunpowder",
+        "access_rules": [
+          "Gunpowder"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Musketmen and construction of the Himeji Castle",
+            "chest_unopened_img":"images/items/Gunpowder.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 477,
+            "y": 405
+          }
+        ]
+      },
+      {
+        "name": "Metallurgy",
+        "access_rules": [
+          "Metallurgy"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Lancers and construction of the Arsenal and Red Fort",
+            "chest_unopened_img":"images/items/Metallurgy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 697,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Navigation",
+        "access_rules": [
+          "Navigation"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Frigates and construction of the Seaport",
+            "chest_unopened_img":"images/items/Navigation.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 697,
+            "y": 78
+          }
+        ]
+      },
+      {
+        "name": "Printing Press",
+        "access_rules": [
+          "Printing_Press"
+        ],
+        "sections": [
+          {
+            "name": "Allows Construction of Theatres, as well as the Leaning Tower of Pisa and the Globe Theatre",
+            "chest_unopened_img":"images/items/Printing_Press.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 477,
+            "y": 324
+          }
+        ]
+      },
+      // Industrial Era
+      {
+        "name": "Archaeology",
+        "access_rules": [
+          "Archaeology"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Archeologists and construction of museums and the Louvre",
+            "chest_unopened_img":"images/items/Archaeology.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 917,
+            "y": 79
+          }
+        ]
+      },
+      {
+        "name": "Biology",
+        "access_rules": [
+          "Biology"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of Hospitals and Oil wells",
+            "chest_unopened_img":"images/items/Biology.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 1136,
+            "y": 79
+          }
+        ]
+      },
+      {
+        "name": "Dynamite",
+        "access_rules": [
+          "Dynamite"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Artillery",
+            "chest_unopened_img":"images/items/Dynamite.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 1136,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Electricity",
+        "access_rules": [
+          "Electricity"
+        ],
+        "sections": [
+          {
+            "name": "Reveals aluminum and allows construction of the Hydroplant, Stock Exchange and Police Station",
+            "chest_unopened_img":"images/items/Electricity.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 1136,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Fertilizer",
+        "access_rules": [
+          "Fertilizer"
+        ],
+        "sections": [
+          {
+            "name": "+1 Food from Farms and Terrace Farms without fresh water, +1 Food from Plantations and Pastures.",
+            "chest_unopened_img":"images/items/Fertilizer.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 917,
+            "y": 405
+          }
+        ]
+      },
+      {
+        "name": "Industrialization",
+        "access_rules": [
+          "Industrialization"
+        ],
+        "sections": [
+          {
+            "name": "Reveals Coal. Allows production of the Gatling gun and construction of Factories and Big Ben",
+            "chest_unopened_img":"images/items/Industrialization.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 917,
+            "y": 242
+          }
+        ]
+      },
+      {
+        "name": "Military Science",
+        "access_rules": [
+          "Military_Science"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Cavalry and construction of the Military Academy and Brandenburg Gate",
+            "chest_unopened_img":"images/items/Military_Science.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 917,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Rifling",
+        "access_rules": [
+          "Rifling"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Riflemen",
+            "chest_unopened_img":"images/items/Rifling.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 917,
+            "y": 283
+          }
+        ]
+      },
+      {
+        "name": "Scientific Theory",
+        "access_rules": [
+          "Scientific_Theory"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of Public Schools and gives +2 science from Academies as well as +1 production from Lumber Mills",
+            "chest_unopened_img":"images/items/Scientific_Theory.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 917,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Steam Power",
+        "access_rules": [
+          "Steam_Power"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the Ironclad and gives units faster embarked movement",
+            "chest_unopened_img":"images/items/Steam_Power.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MediRennaiInduEra",
+            "x": 1136,
+            "y": 242
+          }
+        ]
+      },
+      // Modern Era
+      {
+        "name": "Ballistics",
+        "access_rules": [
+          "Ballistics"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the Anti-Aircraft Gun and Machine Gun",
+            "chest_unopened_img":"images/items/Ballistics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 257,
+            "y": 242
+          }
+        ]
+      },
+      {
+        "name": "Combustion",
+        "access_rules": [
+          "Combustion"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the Landship and Destroyer. also extends Trade Route range",
+            "chest_unopened_img":"images/items/Combustion.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 257,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Electronics",
+        "access_rules": [
+          "Electronics"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the Carrier and Battleship",
+            "chest_unopened_img":"images/items/Electronics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 257,
+            "y": 201
+          }
+        ]
+      },
+      {
+        "name": "Flight",
+        "access_rules": [
+          "Flight"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the Triplane and Great War Bomber",
+            "chest_unopened_img":"images/items/Flight.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 37,
+            "y": 242
+          }
+        ]
+      },
+      {
+        "name": "Plastics",
+        "access_rules": [
+          "Plastics"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Infantry and contruction of the Research Lab and Cristo Redentor",
+            "chest_unopened_img":"images/items/Plastics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 257,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Radio",
+        "access_rules": [
+          "Radio"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of the Broadcast Tower, Eiffel Tower, Narional Intelligence agency and Broadway",
+            "chest_unopened_img":"images/items/Radio.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 37,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Railroad",
+        "access_rules": [
+          "Railroad"
+        ],
+        "sections": [
+          {
+            "name": "Allows workers to construct Railroads and allows construction of the Kremlin and Neuschwanstein",
+            "chest_unopened_img":"images/items/Railroad.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 37,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Refrigeration",
+        "access_rules": [
+          "Refrigeration"
+        ],
+        "sections": [
+          {
+            "name": "Allows prodiction of the Submarine and construction of the Stadium, Offshore platform and Hotel",
+            "chest_unopened_img":"images/items/Refrigeration.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 37,
+            "y": 78
+          }
+        ]
+      },
+      {
+        "name": "Replaceable Parts",
+        "access_rules": [
+          "Replaceable_Parts"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Great War Infantry and construction of the Military Base and Statue of Liberty",
+            "chest_unopened_img":"images/items/Replaceable_Parts.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 37,
+            "y": 160
+          }
+        ]
+      },
+      // Atomic Era
+      {
+        "name": "Atomic Theory",
+        "access_rules": [
+          "Atomic_Theory"
+        ],
+        "sections": [
+          {
+            "name": "Reveals Uranium. Allows construction of the Manhattan Project. +2 science from Academies",
+            "chest_unopened_img":"images/items/Atomic_Theory.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 476,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Combined_Arms",
+        "access_rules": [
+          "Combined_Arms"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Tanks and construction of the Pentagon",
+            "chest_unopened_img":"images/items/Combined_Arms.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 476,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Computers",
+        "access_rules": [
+          "Computers"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Helicopter Gunships and construction of the Great Firewall",
+            "chest_unopened_img":"images/items/Computers.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 695,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Ecology",
+        "access_rules": [
+          "Ecology"
+        ],
+        "sections": [
+          {
+            "name": "Allows construction of Solar Plants, Recycling Centers and the Sydney Opera House",
+            "chest_unopened_img":"images/items/Ecology.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 695,
+            "y": 78
+          }
+        ]
+      },
+      {
+        "name": "Nuclear Fission",
+        "access_rules": [
+          "Nuclear_Fission"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the Nuclear Bomb and Bazooka, as well as construction of Nuclear Plants",
+            "chest_unopened_img":"images/items/Nuclear_Fission.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 695,
+            "y": 160
+          }
+        ]
+      },
+      {
+        "name": "Penicillin",
+        "access_rules": [
+          "Penicillin"
+        ],
+        "sections": [
+          {
+            "name": "Allows the productions of Marines and construction of Medical Labs",
+            "chest_unopened_img":"images/items/Penicillin.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 476,
+            "y": 78
+          }
+        ]
+      },
+      {
+        "name": "Radar",
+        "access_rules": [
+          "Radar"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the Bomber, Fighter and Paratrooper as well as the construction of Airports",
+            "chest_unopened_img":"images/items/Radar.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 476,
+            "y": 242
+          }
+        ]
+      },
+      {
+        "name": "Rocketry",
+        "access_rules": [
+          "Rocketry"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Mobile SAM and Rocket Artillery and construction of the Apollo Program",
+            "chest_unopened_img":"images/items/Rocketry.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 695,
+            "y": 242
+          }
+        ]
+      },
+      // Information Era
+      {
+        "name": "Advanced Ballistics",
+        "access_rules": [
+          "Advanced_Ballistics"
+        ],
+        "sections": [
+          {
+            "name": "Allows prodution of the Guided Missile, Nulear Missile and SS Booster",
+            "chest_unopened_img":"images/items/Advanced_Ballistics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 915,
+            "y": 201
+          }
+        ]
+      },
+      {
+        "name": "Globalization",
+        "access_rules": [
+          "Globalization"
+        ],
+        "sections": [
+          {
+            "name": "Globalization allows the development of the United Nations",
+            "chest_unopened_img":"images/items/Globalization.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 1135,
+            "y": 78
+          }
+        ]
+      },
+      {
+        "name": "Lasers",
+        "access_rules": [
+          "Lasers"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the Jet Fighter and Modern Armor",
+            "chest_unopened_img":"images/items/Lasers.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 915,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Mobile Tactics",
+        "access_rules": [
+          "Mobile_Tactics"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Mechanized Infantry",
+            "chest_unopened_img":"images/items/Mobile_Tactics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 915,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Nanotechnology",
+        "access_rules": [
+          "Nanotechnology"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the XCOM Squad and SS Stasis Chamber",
+            "chest_unopened_img":"images/items/Nanotechnology.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 1135,
+            "y": 283
+          }
+        ]
+      },
+      {
+        "name": "Nuclear Fusion",
+        "access_rules": [
+          "Nuclear_Fusion"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Giant Death Robots",
+            "chest_unopened_img":"images/items/Nuclear_Fusion.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 1135,
+            "y": 242
+          }
+        ]
+      },
+      {
+        "name": "Particle Physics",
+        "access_rules": [
+          "Particle_Physics"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the SS Engine",
+            "chest_unopened_img":"images/items/Particle_Physics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 1135,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Robotics",
+        "access_rules": [
+          "Robotics"
+        ],
+        "sections": [
+          {
+            "name": "Allows Production of the Missile Cruiser and construction Spaceship Factories",
+            "chest_unopened_img":"images/items/Robotics.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 915,
+            "y": 283
+          }
+        ]
+      },
+      {
+        "name": "Satellites",
+        "access_rules": [
+          "Satellites"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of the SS Cockpit and construction of the Hubble Space Telescope",
+            "chest_unopened_img":"images/items/Satellites.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 915,
+            "y": 242
+          }
+        ]
+      },
+      {
+        "name": "Stealth",
+        "access_rules": [
+          "Stealth"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Stealth Bombers",
+            "chest_unopened_img":"images/items/Stealth.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 1135,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Telecommunications",
+        "access_rules": [
+          "Telecommunications"
+        ],
+        "sections": [
+          {
+            "name": "Allows production of Nuclear Submarines and construction of Bomb Shelter, National Visitors Center and CN Tower",
+            "chest_unopened_img":"images/items/Telecommunications.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 915,
+            "y": 78
+          }
+        ]
+      },
+      {
+        "name": "The_Internet",
+        "access_rules": [
+          "The_Internet"
+        ],
+        "sections": [
+          {
+            "name": "Doubles the Tourism output of all your cities. Effect negated in a civilization with the Great Firewall.",
+            "chest_unopened_img":"images/items/The_Internet.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ModAtomInfoEra",
+            "x": 1135,
+            "y": 38
           }
         ]
       }

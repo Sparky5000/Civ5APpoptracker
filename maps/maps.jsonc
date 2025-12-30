@@ -1,9 +1,26 @@
 [
-  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
   {
     "name": "Policies",
-    "location_size": 24,
+    "location_size": 25,
     "location_border_thickness": 4,
     "img": "images/maps/Policies.png"
+  },
+  {
+    "name": "AnciClassEra",
+    "location_size": 25,
+    "location_border_thickness": 4,
+    "img": "images/maps/AnciClassEra.png"
+  },
+  {
+    "name": "MediRennaiInduEra",
+    "location_size": 25,
+    "location_border_thickness": 4,
+    "img": "images/maps/MediRennaiInduEra.png"
+  },
+  {
+    "name": "ModAtomInfoEra",
+    "location_size": 25,
+    "location_border_thickness": 4,
+    "img": "images/maps/ModAtomInfoEra.png"
   }
 ]

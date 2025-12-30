@@ -1,13 +1,13 @@
 {
   "name": "Civ 5 AP Tracker",
   "game_name": "Civ 5",
-  "package_version": "1.0.1",
+  "package_version": "1.1.0",
   "package_uid": "civ5_pack_Sparky5000",
   "platform": "ap",
   "author": "Sparky5000",
   "variants": {
     "standard": {
-      "display_name": "Tech Tree",
+      "display_name": "Tracker",
       "flags": [
         // enables AP autotracking interface - remove if not needed
         "ap"

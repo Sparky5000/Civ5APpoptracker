@@ -1,5 +1,7 @@
 [
   //Technologies
+
+  // Ancient Era
   {
     "name": "Agriculture",
     "type": "static",
@@ -72,6 +74,7 @@
     "img": "images/items/Writing.png",
     "codes": "Writing"
   },
+  // Classical Era
   {
     "name": "Construction",
     "type": "toggle",
@@ -126,6 +129,7 @@
     "img": "images/items/Philosophy.png",
     "codes": "Philosophy"
   },
+  // Medieval Era
   {
     "name": "Chivalry",
     "type": "toggle",
@@ -186,6 +190,7 @@
     "img": "images/items/Theology.png",
     "codes": "Theology"
   },
+  // Rennaissance Era
   {
     "name": "Acoustics",
     "type": "toggle",
@@ -209,12 +214,6 @@
     "type": "toggle",
     "img": "images/items/Banking.png",
     "codes": "Banking"
-  },
-  {
-    "name": "temp",
-    "type": "toggle",
-    "img": "images/items/temp.png",
-    "codes": "temp"
   },
   {
     "name": "Chemistry",
@@ -252,6 +251,7 @@
     "img": "images/items/Printing_Press.png",
     "codes": "Printing_Press"
   },
+  // Industrial Era
   {
     "name": "Archaeology",
     "type": "toggle",
@@ -312,6 +312,7 @@
     "img": "images/items/Steam_Power.png",
     "codes": "Steam_Power"
   },
+  // Modern Era
   {
     "name": "Ballistics",
     "type": "toggle",
@@ -366,6 +367,7 @@
     "img": "images/items/Replaceable_Parts.png",
     "codes": "Replaceable_Parts"
   },
+  // Atomic Era
   {
     "name": "Atomic Theory",
     "type": "toggle",
@@ -414,17 +416,12 @@
     "img": "images/items/Rocketry.png",
     "codes": "Rocketry"
   },
+  // Information Era
   {
     "name": "Advanced_Ballistics",
     "type": "toggle",
     "img": "images/items/Advanced_Ballistics.png",
     "codes": "Advanced_Ballistics"
-  },
-  {
-    "name": "Future Tech",
-    "type": "toggle",
-    "img": "images/items/Future_Tech.png",
-    "codes": "Future_Tech"
   },
   {
     "name": "Globalization",
