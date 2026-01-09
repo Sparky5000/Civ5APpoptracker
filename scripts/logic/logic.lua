@@ -20,6 +20,8 @@ function canBuildSpaceFactory()
     end
 end
 
+-- logic for World wonders that require Modern Era or Factories
+
 function canBuildKremlin()
     if Tracker:FindObjectForCode("Prog_Era").CurrentStage >= 5 and has("Railroad") then
         return AccessibilityLevel.Normal
