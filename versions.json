@@ -3,20 +3,21 @@
         {
             "package_version": "1.2.2",
             "download_url": "https://github.com/Sparky5000/Civ5APpoptracker/archive/refs/tags/v1.2.2.zip",
-            "sha256": "215ca8303565009329a73ed3c067a1ab36e25d6f77b7dbae673a8b18df51c4be",
+            "sha256": "a17911432f0503c8a6bc90472be3fde3ee58755eb4a943b4bb759c5fd5a765c6",
             "changelog": ["Fixed auto update, Many Typos, Logic Fixes"]
         },
         {
             "package_version": "1.2.1",
             "download_url": "https://github.com/Sparky5000/Civ5APpoptracker/archive/refs/tags/v1.2.1.zip",
-            "sha256": "2a639957dc7aa66da28c505e2bbc59032928ee9b131ce459261bc56cc4044056",
+            "sha256": "7fd77c492a21d02b6e52fd4a3a86eed47207e1abc6f90f65171fd724faa2f537",
             "changelog": ["Added auto update support"]
         },
         {
             "package_version": "1.2.0",
             "download_url": "https://github.com/Sparky5000/Civ5APpoptracker/archive/refs/tags/v1.2.0.zip",
-            "sha256": "dfac56a5236952bcc07f43046f4507759a7eb1952243535e73dce57396ae9d63",
+            "sha256": "2f5e1c7b8b3defca4a3ff38ceccfd631428cdb695e5f79ceeb1cd598a98b35d5",
             "changelog": ["Added Building and Wonder tracking"]
         }
     ]
+
 }
