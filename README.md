@@ -1,6 +1,6 @@
 # PopTracker Pack for Civ 5 by Sparky5000
 
-this pack is meant to track your techs and policies retrieved while playing Civ 5 AP currently being updated and maintained by 1313e
+this pack is meant to track your techs and policies retrieved as well as available building checks while playing Civ 5 AP currently being updated and maintained by 1313e
 
 ## Installation
 

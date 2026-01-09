@@ -1,0 +1,1112 @@
+[
+    // World Wonders
+    {
+        "name": "WorldWonders",
+        "children": [
+            {
+                "name": "Great Lighthouse",
+                "access_rules": [
+                    "Optics"
+                ],
+                "sections": [
+                    {
+                        "name": "City must be built on a coast. Provides a free Lighthouse. Required Tech: Optics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 186,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Stonehenge",
+                "access_rules": [
+                    "Calendar"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Calendar"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 21,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Great Library",
+                "access_rules": [
+                    "Writing"
+                ],
+                "sections": [
+                    {
+                        "name": "Provides a free Library. Required Tech: Writing"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 21,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Pyramids",
+                "access_rules": [
+                    "Liberty,Masonry"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Liberty policy tree unlocked. Required Tech: Masonry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 21,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Colossus",
+                "access_rules": [
+                    "Iron_Working"
+                ],
+                "sections": [
+                    {
+                        "name": "City must be built on a caost. Required Tech: Iron Working"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 186,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Oracle",
+                "access_rules": [
+                    "Philosophy"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Philosophy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 186,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Hanging Gardens",
+                "access_rules": [
+                    "Tradition,Mathematics"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Tradition policy tree unlocked. Provides a free Garden. Required Tech: Mathematics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 186,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Great Wall",
+                "access_rules": [
+                    "Engineering"
+                ],
+                "sections": [
+                    {
+                        "name": "Provides a free Wall. Required Tech: Engineering"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 186,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Angkor Wat",
+                "access_rules": [
+                    "Education"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Education"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 350,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Hagia Sophia",
+                "access_rules": [
+                    "Theology"
+                ],
+                "sections": [
+                    {
+                        "name": "Provides a free Temple. Required Tech: Theology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 350,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Chichen Itza",
+                "access_rules": [
+                    "Civil_Service"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Civil Service"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 350,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Machu Picchu",
+                "access_rules": [
+                    "Guilds"
+                ],
+                "sections": [
+                    {
+                        "name": "City must be built within 2 tiles of a mountain. Required Tech: Guilds"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 350,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Notre Dame",
+                "access_rules": [
+                    "Physics"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Physics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 350,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Porcelain Tower",
+                "access_rules": [
+                    "Rationalism,Architecture"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Rationalism policy tree unlocked. Required Tech: Architecture"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 515,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Himeji Castle",
+                "access_rules": [
+                    "Gunpowder"
+                ],
+                "sections": [
+                    {
+                        "name": "Provides a free Castle. Required Tech: Gunpowder"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 515,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Sistine Chapel",
+                "access_rules": [
+                    "Acoustics"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Acoustics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 515,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Kremlin",
+                "access_rules": [
+                    "^$canBuildKremlin"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Order Ideology unlocked and the Modern era (or 3 Factories out of logic). Required Tech: Railroad"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 844,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Forbidden Palace",
+                "access_rules": [
+                    "Patronage,Banking"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Patronage policy tree unlocked. Required Tech: Banking"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 515,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Taj Mahal",
+                "access_rules": [
+                    "Architecture"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Architecture"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 515,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Big Ben",
+                "access_rules": [
+                    "Commerce,Industrialization"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Commerce policy tree unlocked. Required Tech: Industrialization"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 679,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Louvre",
+                "access_rules": [
+                    "Exploration,Archaeology"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Exploration policy tree unlocked. Required Tech: Archaeology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 679,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Brandenburg Gate",
+                "access_rules": [
+                    "Military_Science"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Military Science"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 679,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Statue of Liberty",
+                "access_rules": [
+                    "^$canBuildStatueLiberty"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Freedom Ideology unlocked and Modern Era (or 3 Factories out of logic). Required Tech: Replaceable Parts"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 844,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Cristo Redentor",
+                "access_rules": [
+                    "Plastics"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Plastics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 844,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Eiffel Tower",
+                "access_rules": [
+                    "Radio"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Radio"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 844,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Pentagon",
+                "access_rules": [
+                    "Combined_Arms"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Combined Arms"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 679,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Sydney Opera House",
+                "access_rules": [
+                    "Ecology"
+                ],
+                "sections": [
+                    {
+                        "name": "City must be built on a coast. Required Tech: Ecology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 679,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Statue of Zeus",
+                "access_rules": [
+                    "Honor,Bronze_Working"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Honor policy tree unlocked. Required Tech: Bronze Working"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 21,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Temple of Artemis",
+                "access_rules": [
+                    "Archery"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Archery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 21,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Mausoleum of Halicarnassus",
+                "access_rules": [
+                    "Masonry"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Masonry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 21,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Alhambra",
+                "access_rules": [
+                    "Chivalry"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Chivalry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 350,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "CN Tower",
+                "access_rules": [
+                    "Telecommunications"
+                ],
+                "sections": [
+                    {
+                        "name": "Provides a free Broadcast Tower in all cities. Required Tech: Telecommunications"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 679,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Hubble Space Telescope",
+                "access_rules": [
+                    "Satellites"
+                ],
+                "sections": [
+                    {
+                        "name": "Provides a free Spaceship Factory. Required Tech: Satellites"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 844,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Leaning Tower of Pisa",
+                "access_rules": [
+                    "Printing_Press"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Printing Press"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 515,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Great Mosque of Djenne",
+                "access_rules": [
+                    "Piety,Theology"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Piety policy tree unlocked. Provides a free Mosque. Required Tech: Theology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 350,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Neuschwanstein",
+                "access_rules": [
+                    "Railroad"
+                ],
+                "sections": [
+                    {
+                        "name": "City must be built within 2 tiles of a mountain. Required Tech: Railroad"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 844,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Petra",
+                "access_rules": [
+                    "Currency"
+                ],
+                "sections": [
+                    {
+                        "name": "City must be built within 1 tile of a desert. Required Tech: Currency"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 186,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Terracotta Army",
+                "access_rules": [
+                    "Construction"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Construction"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 186,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Great Firewall",
+                "access_rules": [
+                    "Computers"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Computers"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 679,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Uffizi",
+                "access_rules": [
+                    "Aesthetics,Architecture"
+                ],
+                "sections": [
+                    {
+                        "name": "Requires Aesthetics policy tree unlocked. Required Tech: Architecture"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 515,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Globe Theatre",
+                "access_rules": [
+                    "Printing_Press"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Printing Press"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 515,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Broadway",
+                "access_rules": [
+                    "Radio"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Radio"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 844,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Red Fort",
+                "access_rules": [
+                    "Metallurgy"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Metallurgy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 515,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Prora",
+                "access_rules": [
+                    "^$canBuildProra"
+                ],
+                "sections": [
+                    {
+                        "name": "City must be built on a coast. Requires Autocracy Ideology unlocked and Modern Era (or 3 Factories out of logic). Required Tech: Flight"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 844,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Borobudur",
+                "access_rules": [
+                    "Theology"
+                ],
+                "sections": [
+                    {
+                        "name": "Must be built in a Holy City. Required Tech: Theology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 350,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Parthenon",
+                "access_rules": [
+                    "Drama_and_Poetry"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Drama and Poetry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 186,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "International Space Station",
+                "access_rules": [
+                    "Satellites"
+                ],
+                "sections": [
+                    {
+                        "name": "Given to the City that has contributed most to its construction. Required Tech: Satellites"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 21,
+                        "y": 315
+                    }
+                ]
+            }
+        ]
+    },
+    // National Wonders
+    {
+        "name": "NationalWonders",
+        "children": [
+            {
+                "name": "Heroic Epic",
+                "access_rules": [
+                    "Iron_Working,Bronze_Working"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a Barracks. Required Tech: Iron Working, Bronze Working"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1009,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "National College",
+                "access_rules": [
+                    "Philosophy,Writing"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a Library. Required Tech: Philosophy, Writing"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1009,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "National Epic",
+                "access_rules": [
+                    "Drama_and_Poetry,"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a Monument. Required Tech: Drama and Poetry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1173,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Circus Maximus",
+                "access_rules": [
+                    "Horseback_Riding,Construction"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a Colosseum. Required Tech: Horseback Riding, Construction"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1009,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "East India Company",
+                "access_rules": [
+                    "Guilds,Currency"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a Market. Required Tech: Guilds, Currency"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1173,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Ironworks",
+                "access_rules": [
+                    "Machinery,Metal_Casting"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a Workshop. Required Tech: Machinery, Metal Casting"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1173,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Oxford University",
+                "access_rules": [
+                    "Education,Writing"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a University. Required Tech: Education, Writing"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1009,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Hermitage",
+                "access_rules": [
+                    "Architecture,Acoustics"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a Opera house. Required Tech: Architecture, Acoustics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1173,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "National Intelligence Agency",
+                "access_rules": [
+                    "Radio,Electricity,Banking"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a Police Station. Required Tech: Radio, Electricity, Banking"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1009,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Grand Temple",
+                "access_rules": [
+                    "Theology,Philosophy"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a Temple. Must be built in a holy City. Required Tech: Theology, Philosophy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1009,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "National Visitor Center",
+                "access_rules": [
+                    "Telecommunications,Refrigeration"
+                ],
+                "sections": [
+                    {
+                        "name": "All Cities must have a Hotel. Required Tech: Telecommunications, Refrigeration"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1173,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Writers' Guild",
+                "access_rules": [
+                    "Drama_and_Poetry"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Drama and Poetry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1173,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Artists' Guild",
+                "access_rules": [
+                    "Guilds"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Guilds"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1173,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Musicians' Guild",
+                "access_rules": [
+                    "Acoustics"
+                ],
+                "sections": [
+                    {
+                        "name": "Required Tech: Acoustics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Wonders",
+                        "x": 1009,
+                        "y": 276
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,15 +1,51 @@
--- put logic functions here using the Lua API: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#lua-interface
--- don't be afraid to use custom logic functions. it will make many things a lot easier to maintain, for example by adding logging.
--- to see how this function gets called, check: locations/locations.json
--- example:
-function has_more_then_n_consumable(n)
-    local count = Tracker:ProviderCountForCode('consumable')
-    local val = (count > tonumber(n))
-    if ENABLE_DEBUG_LOG then
-        print(string.format("called has_more_then_n_consumable: count: %s, n: %s, val: %s", count, n, val))
+-- logic for recycling center logic skips
+
+function canBuildHydroPlant()
+    if has("Electricity") and has("Mining") then
+        return AccessibilityLevel.Normal
+    elseif has("Electricity") and has("Ecology") then
+        return AccessibilityLevel.SequenceBreak
+    else
+        return AccessibilityLevel.None
     end
-    if val then
-        return 1 -- 1 => access is in logic
+end
+
+function canBuildSpaceFactory()
+        if has("Electricity") and has("Robotics") and has("Industrialization") and has("Metal_Casting") and has("Mining") then
+        return AccessibilityLevel.Normal
+    elseif has("Ecology") and has("Robotics") and has("Industrialization") and has("Metal_Casting") and has("Mining") then
+        return AccessibilityLevel.SequenceBreak
+    else
+        return AccessibilityLevel.None
     end
-    return 0 -- 0 => no access
+end
+
+function canBuildKremlin()
+    if Tracker:FindObjectForCode("Prog_Era").CurrentStage >= 5 and has("Railroad") then
+        return AccessibilityLevel.Normal
+    elseif has("Railroad") and has("Industrialization") and has("Metal_Casting") and has("Mining") then
+        return AccessibilityLevel.SequenceBreak
+    else
+        return AccessibilityLevel.None
+    end
+end
+
+function canBuildProra()
+    if Tracker:FindObjectForCode("Prog_Era").CurrentStage >= 5 and has("Flight") then
+        return AccessibilityLevel.Normal
+    elseif has("Flight") and has("Industrialization") and has("Metal_Casting") and has("Mining") then
+        return AccessibilityLevel.SequenceBreak
+    else
+        return AccessibilityLevel.None
+    end
+end
+
+function canBuildStatueLiberty()
+    if Tracker:FindObjectForCode("Prog_Era").CurrentStage >= 5 and has("Replaceable_Parts") then
+        return AccessibilityLevel.Normal
+    elseif has("Replaceable_Parts") and has("Industrialization") and has("Metal_Casting") and has("Mining") then
+        return AccessibilityLevel.SequenceBreak
+    else
+        return AccessibilityLevel.None
+    end
 end

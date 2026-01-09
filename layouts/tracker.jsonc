@@ -9,6 +9,21 @@
       "dropshadow": true,
       "content": [
         {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Current Era",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "EraDisplay"
+              }
+            }
+          ]
+        },
+        {
           "type": "tabbed",
           "tabs": [
             {
@@ -52,6 +67,32 @@
                 "type": "map",
                 "maps": [
                   "Policies"
+                ]
+              }
+            },
+            {
+              "title": "Buildingsanity",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Standard",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "StandardBuildings"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Wonders",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Wonders"
+                      ]
+                    }
+                  }
                 ]
               }
             }

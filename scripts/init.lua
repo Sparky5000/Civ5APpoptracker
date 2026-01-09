@@ -6,7 +6,7 @@ local variant = Tracker.ActiveVariantUID
 -- check variant info
 IS_ITEMS_ONLY = variant:find("itemsonly")
 
-print("-- Example Tracker --")
+print("-- Civ5Tracker --")
 print("Loaded variant: ", variant)
 if ENABLE_DEBUG_LOG then
     print("Debug logging is enabled!")
@@ -16,18 +16,20 @@ end
 ScriptHost:LoadScript("scripts/utils.lua")
 
 -- Logic
+ScriptHost:LoadScript("scripts/logic/logic.lua")
 
 -- Custom Items
 
 -- Items
 Tracker:AddItems("items/items.jsonc")
 
-if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
-    -- Maps
-    Tracker:AddMaps("maps/maps.jsonc")
-    -- Locations
-    Tracker:AddLocations("locations/locations.jsonc")
-end
+-- Maps
+Tracker:AddMaps("maps/maps.jsonc")
+
+-- Locations
+Tracker:AddLocations("locations/locations.jsonc")
+Tracker:AddLocations("locations/buildings.jsonc")
+Tracker:AddLocations("locations/wonders.jsonc")
 
 -- Layout
 Tracker:AddLayouts("layouts/items.jsonc")

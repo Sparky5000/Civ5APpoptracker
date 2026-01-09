@@ -131,5 +131,23 @@
         ]
       }
     ]
+  },
+  "EraDisplay": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "margin": "0, 0",
+        "item_margin": "0, 0",
+        "item_size": 64,
+        "rows": [
+          [
+            "Prog_Era"
+          ]
+        ]
+      }
+    ]
   }
 }
