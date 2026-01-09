@@ -352,7 +352,7 @@
         ],
         "sections": [
           {
-            "name":"Reduces the time to build Culture buildings bt 15%, Shrines and Temples by 50%, and Unlocks building the Great Mosque of Djenne",
+            "name":"Reduces the time to build Culture buildings by 15%, Shrines and Temples by 50%, and Unlocks building the Great Mosque of Djenne",
             "chest_unopened_img":"images/items/Piety.png"
           }
         ],
@@ -1233,7 +1233,7 @@
         ],
         "sections": [
           {
-            "name": "Reveals Horsees. Allows access to various animal resources via the Pasture.",
+            "name": "Reveals Horses. Allows access to various animal resources via the Pasture.",
             "chest_unopened_img":"images/items/Animal_Husbandry.png"
           }
         ],
@@ -1347,7 +1347,7 @@
         ],
         "sections": [
           {
-            "name": "allows construction of the Granary and Shrine",
+            "name": "Allows construction of the Granary and Shrine",
             "chest_unopened_img":"images/items/Pottery.png"
           }
         ],
@@ -1481,7 +1481,7 @@
         ],
         "sections": [
           {
-            "name": "Allows construction of the Amphitheatre and Writers Guild",
+            "name": "Allows construction of the Amphitheater and Writers Guild",
             "chest_unopened_img":"images/items/Drama_and_Poetry.png"
           }
         ],
@@ -1500,7 +1500,7 @@
         ],
         "sections": [
           {
-            "name": "Allows roads to bridge over rivers and Workers can now build Forts. Also allows construction of Aquaducts",
+            "name": "Allows roads to bridge over rivers and Workers can now build Forts. Also allows construction of Aqueducts",
             "chest_unopened_img":"images/items/Engineering.png"
           }
         ],
@@ -1672,7 +1672,7 @@
         ],
         "sections": [
           {
-            "name": "Allows construction of Universities and the ability to enter Researh Agreements with other civilizations",
+            "name": "Allows construction of Universities and the ability to enter Research Agreements with other civilizations",
             "chest_unopened_img":"images/items/Education.png"
           }
         ],
@@ -1748,7 +1748,7 @@
         ],
         "sections": [
           {
-            "name": "Allows production of Trebuchats and Construction of the Notre Dame",
+            "name": "Allows production of Trebuchets and Construction of the Notre Dame",
             "chest_unopened_img":"images/items/Physics.png"
           }
         ],
@@ -1901,7 +1901,7 @@
         ],
         "sections": [
           {
-            "name": "Allows construction of Winmills and gives +1 Gold from Camps and Trading Posts",
+            "name": "Allows construction of Windmills and gives +1 Gold from Camps and Trading Posts",
             "chest_unopened_img":"images/items/Economics.png"
           }
         ],
@@ -1977,7 +1977,7 @@
         ],
         "sections": [
           {
-            "name": "Allows Construction of Theatres, as well as the Leaning Tower of Pisa and the Globe Theatre",
+            "name": "Allows Construction of Zoos, as well as the Leaning Tower of Pisa and the Globe Theatre",
             "chest_unopened_img":"images/items/Printing_Press.png"
           }
         ],
@@ -2264,7 +2264,7 @@
         ],
         "sections": [
           {
-            "name": "Allows production of Infantry and contruction of the Research Lab and Cristo Redentor",
+            "name": "Allows production of Infantry and construction of the Research Lab and Cristo Redentor",
             "chest_unopened_img":"images/items/Plastics.png"
           }
         ],
@@ -2283,7 +2283,7 @@
         ],
         "sections": [
           {
-            "name": "Allows construction of the Broadcast Tower, Eiffel Tower, Narional Intelligence agency and Broadway",
+            "name": "Allows construction of the Broadcast Tower, Eiffel Tower, National Intelligence agency and Broadway",
             "chest_unopened_img":"images/items/Radio.png"
           }
         ],
@@ -2513,7 +2513,7 @@
         ],
         "sections": [
           {
-            "name": "Allows prodution of the Guided Missile, Nulear Missile and SS Booster",
+            "name": "Allows production of the Guided Missile, Nulear Missile and SS Booster",
             "chest_unopened_img":"images/items/Advanced_Ballistics.png"
           }
         ],

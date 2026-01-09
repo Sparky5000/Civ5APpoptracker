@@ -1,6 +1,5 @@
 [
   //Technologies
-
   // Ancient Era
   {
     "name": "Agriculture",
@@ -493,319 +492,319 @@
   {
     "name": "Liberty",
     "type": "toggle",
-    "codes": "Liberty" 
+    "codes": "Liberty"
   },
   {
     "name": "Collective Rule",
     "type": "toggle",
-    "codes": "Collective_Rule" 
+    "codes": "Collective_Rule"
   },
   {
     "name": "Citizenship",
     "type": "toggle",
-    "codes": "Citizenship" 
+    "codes": "Citizenship"
   },
   {
     "name": "Republic",
     "type": "toggle",
-    "codes": "Republic" 
+    "codes": "Republic"
   },
   {
     "name": "Representation",
     "type": "toggle",
-    "codes": "Representation" 
+    "codes": "Representation"
   },
   {
     "name": "Meritocracy",
     "type": "toggle",
-    "codes": "Meritocracy" 
+    "codes": "Meritocracy"
   },
   {
     "name": "Tradition",
     "type": "toggle",
-    "codes": "Tradition" 
+    "codes": "Tradition"
   },
   {
     "name": "Aristocracy",
     "type": "toggle",
-    "codes": "Aristocracy" 
+    "codes": "Aristocracy"
   },
   {
     "name": "Oligarchy",
     "type": "toggle",
-    "codes": "Oligarchy" 
+    "codes": "Oligarchy"
   },
   {
     "name": "Legalism",
     "type": "toggle",
-    "codes": "Legalism" 
+    "codes": "Legalism"
   },
   {
     "name": "Landed Elite",
     "type": "toggle",
-    "codes": "Landed_Elite" 
+    "codes": "Landed_Elite"
   },
   {
     "name": "Monarchy",
     "type": "toggle",
-    "codes": "Monarchy" 
+    "codes": "Monarchy"
   },
   {
     "name": "Honor",
     "type": "toggle",
-    "codes": "Honor" 
+    "codes": "Honor"
   },
   {
     "name": "Warrior Code",
     "type": "toggle",
-    "codes": "Warrior_Code" 
+    "codes": "Warrior_Code"
   },
   {
     "name": "Discipline",
     "type": "toggle",
-    "codes": "Discipline" 
+    "codes": "Discipline"
   },
   {
     "name": "Military Tradition",
     "type": "toggle",
-    "codes": "Military_Tradition" 
+    "codes": "Military_Tradition"
   },
   {
     "name": "Military Caste",
     "type": "toggle",
-    "codes": "Military_Caste" 
+    "codes": "Military_Caste"
   },
   {
     "name": "Professional Army",
     "type": "toggle",
-    "codes": "Professional_Army" 
+    "codes": "Professional_Army"
   },
   {
     "name": "Piety",
     "type": "toggle",
-    "codes": "Piety" 
+    "codes": "Piety"
   },
   {
     "name": "Organized Religion",
     "type": "toggle",
-    "codes": "Organized_Religion" 
+    "codes": "Organized_Religion"
   },
   {
     "name": "Mandate of Heaven",
     "type": "toggle",
-    "codes": "Mandate_of_Heaven" 
+    "codes": "Mandate_of_Heaven"
   },
   {
     "name": "Theocracy",
     "type": "toggle",
-    "codes": "Theocracy" 
+    "codes": "Theocracy"
   },
   {
     "name": "Reformation",
     "type": "toggle",
-    "codes": "Reformation" 
+    "codes": "Reformation"
   },
   {
     "name": "Religious Tolerance",
     "type": "toggle",
-    "codes": "Religious_Tolerance" 
+    "codes": "Religious_Tolerance"
   },
   {
     "name": "Patronage",
     "type": "toggle",
-    "codes": "Patronage" 
+    "codes": "Patronage"
   },
   {
     "name": "Philanthropy",
     "type": "toggle",
-    "codes": "Philanthropy" 
+    "codes": "Philanthropy"
   },
   {
     "name": "Consulates",
     "type": "toggle",
-    "codes": "Consulates" 
+    "codes": "Consulates"
   },
   {
     "name": "Scholasticism",
     "type": "toggle",
-    "codes": "Scholasticism" 
+    "codes": "Scholasticism"
   },
   {
     "name": "Cultural Diplomacy",
     "type": "toggle",
-    "codes": "Cultural_Diplomacy" 
+    "codes": "Cultural_Diplomacy"
   },
   {
     "name": "Merchant Confederacy",
     "type": "toggle",
-    "codes": "Merchant_Confederacy" 
+    "codes": "Merchant_Confederacy"
   },
   {
     "name": "Commerce",
     "type": "toggle",
-    "codes": "Commerce" 
+    "codes": "Commerce"
   },
   {
     "name": "Mercenary Army",
     "type": "toggle",
-    "codes": "Mercenary_Army" 
+    "codes": "Mercenary_Army"
   },
   {
     "name": "Entrepreneurship",
     "type": "toggle",
-    "codes": "Entrepreneurship" 
+    "codes": "Entrepreneurship"
   },
   {
     "name": "Mercantilism",
     "type": "toggle",
-    "codes": "Mercantilism" 
+    "codes": "Mercantilism"
   },
   {
     "name": "Wagon Trains",
     "type": "toggle",
-    "codes": "Wagon_Trains" 
+    "codes": "Wagon_Trains"
   },
   {
     "name": "Protectionism",
     "type": "toggle",
-    "codes": "Protectionism" 
+    "codes": "Protectionism"
   },
   {
     "name": "Rationalism",
     "type": "toggle",
-    "codes": "Rationalism" 
+    "codes": "Rationalism"
   },
   {
     "name": "Secularism",
     "type": "toggle",
-    "codes": "Secularism" 
+    "codes": "Secularism"
   },
   {
     "name": "Humanism",
     "type": "toggle",
-    "codes": "Humanism" 
+    "codes": "Humanism"
   },
   {
     "name": "Free Thought",
     "type": "toggle",
-    "codes": "Free_Thought" 
+    "codes": "Free_Thought"
   },
   {
     "name": "Sovereignty",
     "type": "toggle",
-    "codes": "Sovereignty" 
+    "codes": "Sovereignty"
   },
   {
     "name": "Scientific Revolution",
     "type": "toggle",
-    "codes": "Scientific_Revolution" 
+    "codes": "Scientific_Revolution"
   },
   {
     "name": "Tradition Finisher",
     "type": "toggle",
-    "codes": "Tradition_Finisher" 
+    "codes": "Tradition_Finisher"
   },
   {
     "name": "Liberty Finisher",
     "type": "toggle",
-    "codes": "Liberty_Finisher" 
+    "codes": "Liberty_Finisher"
   },
   {
     "name": "Honor Finisher",
     "type": "toggle",
-    "codes": "Honor_Finisher" 
+    "codes": "Honor_Finisher"
   },
   {
     "name": "Piety Finisher",
     "type": "toggle",
-    "codes": "Piety_Finisher" 
+    "codes": "Piety_Finisher"
   },
   {
     "name": "Patronage Finisher",
     "type": "toggle",
-    "codes": "Patronage_Finisher" 
+    "codes": "Patronage_Finisher"
   },
   {
     "name": "Commerce Finisher",
     "type": "toggle",
-    "codes": "Commerce_Finisher" 
+    "codes": "Commerce_Finisher"
   },
   {
     "name": "Rationalism Finisher",
     "type": "toggle",
-    "codes": "Rationalism_Finisher" 
+    "codes": "Rationalism_Finisher"
   },
   {
     "name": "Aesthetics",
     "type": "toggle",
-    "codes": "Aesthetics" 
+    "codes": "Aesthetics"
   },
   {
     "name": "Cultural Centers",
     "type": "toggle",
-    "codes": "Cultural_Centers" 
+    "codes": "Cultural_Centers"
   },
   {
     "name": "Fine Arts",
     "type": "toggle",
-    "codes": "Fine_Arts" 
+    "codes": "Fine_Arts"
   },
   {
     "name": "Flourishing of the Arts",
     "type": "toggle",
-    "codes": "Flourishing_of_the_Arts" 
+    "codes": "Flourishing_of_the_Arts"
   },
   {
     "name": "Artistic Genius",
     "type": "toggle",
-    "codes": "Artistic_Genius" 
+    "codes": "Artistic_Genius"
   },
   {
     "name": "Cultural Exchange",
     "type": "toggle",
-    "codes": "Cultural_Exchange" 
+    "codes": "Cultural_Exchange"
   },
   {
     "name": "Aesthetics Finisher",
     "type": "toggle",
-    "codes": "Aesthetics_Finisher" 
+    "codes": "Aesthetics_Finisher"
   },
   {
     "name": "Exploration",
     "type": "toggle",
-    "codes": "Exploration" 
+    "codes": "Exploration"
   },
   {
     "name": "Maritime Infrastructure",
     "type": "toggle",
-    "codes": "Maritime_Infrastructure" 
+    "codes": "Maritime_Infrastructure"
   },
   {
     "name": "Naval Tradition",
     "type": "toggle",
-    "codes": "Naval_Tradition" 
+    "codes": "Naval_Tradition"
   },
   {
     "name": "Merchant Navy",
     "type": "toggle",
-    "codes": "Merchant_Navy" 
+    "codes": "Merchant_Navy"
   },
   {
     "name": "Navigation School",
     "type": "toggle",
-    "codes": "Navigation_School" 
+    "codes": "Navigation_School"
   },
   {
     "name": "Treasure Fleets",
     "type": "toggle",
-    "codes": "Treasure_Fleets" 
+    "codes": "Treasure_Fleets"
   },
   {
     "name": "Exploration Finisher",
     "type": "toggle",
-    "codes": "Exploration_Finisher" 
+    "codes": "Exploration_Finisher"
   },
-// Progressive Technologies
+  // Progressive Technologies
   {
     "name": "Growth",
     "type": "progressive",
@@ -814,51 +813,88 @@
   {
     "name": "Production",
     "type": "progressive",
-    "codes": "Prog_Production" 
+    "codes": "Prog_Production"
   },
   {
     "name": "Science",
     "type": "progressive",
-    "codes": "Prog_Science" 
+    "codes": "Prog_Science"
   },
   {
     "name": "Culture",
     "type": "progressive",
-    "codes": "Prog_Culture" 
+    "codes": "Prog_Culture"
   },
   {
     "name": "Gold",
     "type": "progressive",
-    "codes": "Prog_Gold" 
+    "codes": "Prog_Gold"
   },
   {
     "name": "Happiness",
     "type": "progressive",
-    "codes": "Prog_Happiness" 
+    "codes": "Prog_Happiness"
   },
   {
     "name": "Navy",
     "type": "progressive",
-    "codes": "Prog_Navy" 
+    "codes": "Prog_Navy"
   },
   {
     "name": "Melee Unit",
     "type": "progressive",
-    "codes": "Prog_M_Unit" 
+    "codes": "Prog_M_Unit"
   },
   {
     "name": "Ranged Unit",
     "type": "progressive",
-    "codes": "Prog_R_Unit" 
+    "codes": "Prog_R_Unit"
   },
   {
     "name": "Siege Unit",
     "type": "progressive",
-    "codes": "Prog_S_Unit" 
+    "codes": "Prog_S_Unit"
   },
   {
     "name": "Misc",
     "type": "progressive",
-    "codes": "Prog_Misc" 
+    "codes": "Prog_Misc"
+  },
+  // Progressive Era
+  {
+    "name": "Progressive Era",
+    "type": "progressive",
+    "codes": "Prog_Era",
+    "stages": [
+      {
+        "disabled_img": "images/items/AncientEra.png",
+        "img": "images/items/ClassicalEra.png",
+        "codes": "Classical_Era"
+      },
+      {
+        "img": "images/items/MedievalEra.png",
+        "codes": "Medieval_Era"
+      },
+      {
+        "img": "images/items/RennaissanceEra.png",
+        "codes": "Rennaissance_Era"
+      },
+      {
+        "img": "images/items/IndustrialEra.png",
+        "codes": "Industrial_Era"
+      },
+      {
+        "img": "images/items/ModernEra.png",
+        "codes": "Modern_Era"
+      },
+      {
+        "img": "images/items/AtomicEra.png",
+        "codes": "Atomic_Era"
+      },
+      {
+        "img": "images/items/InformationEra.png",
+        "codes": "Information_Era"
+      }
+    ]
   }
 ]
