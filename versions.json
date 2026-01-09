@@ -1,6 +1,12 @@
 {
     "versions": [
         {
+            "package_version": "1.2.1",
+            "download_url": "https://github.com/Sparky5000/Civ5APpoptracker/archive/refs/tags/v1.2.1.zip",
+            "sha256": "2a639957dc7aa66da28c505e2bbc59032928ee9b131ce459261bc56cc4044056",
+            "changelog": ["Added auto update support"]
+        },
+        {
             "package_version": "1.2.0",
             "download_url": "https://github.com/Sparky5000/Civ5APpoptracker/archive/refs/tags/v1.2.0.zip",
             "sha256": "dfac56a5236952bcc07f43046f4507759a7eb1952243535e73dce57396ae9d63",
