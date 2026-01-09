@@ -1,16 +1,15 @@
 {
   "name": "Civ 5 AP Tracker",
   "game_name": "Civ 5",
-  "package_version": "1.2.0",
+  "package_version": "1.2.1",
   "package_uid": "civ5_pack_Sparky5000",
   "platform": "ap",
   "author": "Sparky5000",
   "variants": {
     "standard": {
       "display_name": "Tracker",
-      "flags": [
-        "ap"
-      ]
+      "flags": ["ap"]
     }
-  }
+  },
+  "versions_url": "raw.githubusercontent.com/Sparky5000/Civ5APpoptracker/versions.json"
 }

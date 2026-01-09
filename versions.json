@@ -1,0 +1,10 @@
+{
+    "versions": [
+        {
+            "package_version": "1.2.0",
+            "download_url": "https://github.com/Sparky5000/Civ5APpoptracker/archive/refs/tags/v1.2.0.zip",
+            "sha256": "dfac56a5236952bcc07f43046f4507759a7eb1952243535e73dce57396ae9d63",
+            "changelog": ["Added Building and Wonder tracking"]
+        }
+    ]
+}
