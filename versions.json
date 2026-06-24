@@ -1,6 +1,12 @@
 {
     "versions": [
         {
+            "package_version": "1.3.0",
+            "download_url": "https://github.com/Sparky5000/Civ5APpoptracker/archive/refs/tags/v1.3.0.zip",
+            "sha256": "93b0af3d483bc942b84e69b157cb9e8c7395ff4b3532b032b57171e10976b40c",
+            "changelog": ["added support for unit, settler, and promotion sanity"]
+        },
+        {
             "package_version": "1.2.3",
             "download_url": "https://github.com/Sparky5000/Civ5APpoptracker/archive/refs/tags/v1.2.3.zip",
             "sha256": "4a0d8313ae78e98771496c6c770715199fa86d7104d826bde6c7370abfc0a9ff",
