@@ -102,6 +102,14 @@ end
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
 	-- put any code here that slot_data should affect (toggling setting items for example)
+	Tracker:FindObjectForCode("Settlersanity").Active = slot_data["settler_sanity"]
+	Tracker:FindObjectForCode("MaxSettlers").AcquiredCount = slot_data["settler_sanity_amount"]
+	Tracker:FindObjectForCode("Buildsanity").Active = slot_data["building_sanity"]
+	Tracker:FindObjectForCode("Unitsanity").Active = slot_data["unit_sanity"]
+	Tracker:FindObjectForCode("WWondersanity").Active = slot_data["world_wonder_sanity"]
+	Tracker:FindObjectForCode("NWondersanity").Active = slot_data["national_wonder_sanity"]
+	Tracker:FindObjectForCode("Promosanity").Active = slot_data["promotion_sanity"]
+	Tracker:FindObjectForCode("Deathlink").Active = slot_data["death_link"]
 end
 
 -- called right after an AP slot is connected

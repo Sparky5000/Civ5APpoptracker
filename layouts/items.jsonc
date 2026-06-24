@@ -149,5 +149,92 @@
         ]
       }
     ]
+  },
+  "SettlerDisplay": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "margin": "0, 0",
+        "item_margin": "0, 0",
+        "item_size": 64,
+        "rows": [
+          [
+            "ProgSettler"
+          ]
+        ]
+      }
+    ]
+  },
+  "PromotionGrid": {
+    "type": "array",
+    "orientation": "vertical",
+    "v_alignment": "top",
+    "h_alignment": "conter",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_size": "64,64",
+        "item_margin": "0, 0",
+        "h_alignment": "left",
+        "rows": [
+          [
+            "AccuracyI","AirAmbushI","AirLogistics","AirRange","AirRepair","AirSiegeI","AirTargetingI","AmbushI","Amphibious","ArmorPlatingI","BarrageI","Blitz","BoardingPartyI","BombardmentI","Charge","CoastalRaiderI","CoverI","DogfightingI"
+          ],
+          [
+            "AccuracyII","AirAmbushII","","","","AirSiegeII","AirTargetingII","AmbushII","","ArmorPlatingII","BarrageII","","BoardingPartyII","BombardmentII","","CoastalRaiderII","CoverII","DogfightingII"
+          ],
+          [
+            "AccuracyIII","","","","","AirSiegeIII","","","","ArmorPlatingIII","BarrageIII","","BoardingPartyIII","BombardmentIII","","CoastalRaiderIII","","DogfightingIII"
+          ],
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "type": "itemgrid",
+        "item_size": "64,64",
+        "item_margin": "0, 0",
+        "h_alignment": "left",
+        "rows": [
+          [
+            "DrillI","Evasion","FlightDeckI","FormationI","HeliAmbushI","HeliMobilityI","HeliRepair","InterceptionI","Logistics","March","MedicI","Mobility","Range","Repair","ScoutingI","Sentry","ShockI","Siege"
+          ],
+          [
+            "DrillII","","FlightDeckII","FormationII","HeliAmbushII","HeliMobilityII","","InterceptionII","","","MedicII","","","","ScoutingII","","ShockII",""
+          ],
+          [
+            "DrillIII","","FlightDeckIII","","","","","InterceptionIII","","","","","","","ScoutingIII","","ShockIII",""
+          ],
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "type": "itemgrid",
+        "item_size": "64,64",
+        "item_margin": "0, 0",
+        "h_alignment": "left",
+        "rows": [
+          [
+            "Sortie","Supply","SurvivalismI","TargetingI","Volley","WolfpackI","Woodsman"
+          ],
+          [
+            "","","SurvivalismII","TargetingII","","WolfpackII",""
+          ],
+          [
+            "","","SurvivalismIII","TargetingIII","","WolfpackIII",""
+          ],
+          [
+            ""
+          ]
+        ]
+      }
+    ]
   }
 }

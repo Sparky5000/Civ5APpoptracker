@@ -1,0 +1,77 @@
+{
+    "settings_popup": {
+        "type": "array",
+        "orientation": "vertical",
+        "v_alignment": "top",
+        "min_width": 190,
+        "min_height": 440,
+        "content": [
+            {
+                "type": "group",
+                "header": "Logical Settings",
+                "margin": "0,0,0,0",
+                "content": {
+                    "type": "itemgrid",
+                    "item_width": 64,
+                    "item_height": 64,
+                    "v_alignment": "center",
+                    "h_alignment": "center",
+                    "dropshadow": false,
+                    "margin": 10,
+                    "rows": [
+                        [
+                            "Settlersanity",
+                            "MaxSettlers"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Display-Only Settings",
+                "margin": "0,0,0,0",
+                "content": {
+                    "type": "itemgrid",
+                    "item_width": 64,
+                    "item_height": 64,
+                    "v_alignment": "center",
+                    "h_alignment": "center",
+                    "dropshadow": false,
+                    "margin": 10,
+                    "rows": [
+                        [
+                            "Buildsanity",
+                            "Unitsanity"
+                        ],
+                        [
+                            "WWondersanity",
+                            "NWondersanity"
+                        ],
+                        [
+                            "Promosanity"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Deathlink Settings",
+                "margin": "0,0,0,0",
+                "content": {
+                    "type": "itemgrid",
+                    "item_width": 64,
+                    "item_height": 64,
+                    "v_alignment": "center",
+                    "h_alignment": "center",
+                    "dropshadow": false,
+                    "margin": 10,
+                    "rows": [
+                        [
+                            "Deathlink"
+                        ]
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -22,19 +22,24 @@ ScriptHost:LoadScript("scripts/logic/logic.lua")
 
 -- Items
 Tracker:AddItems("items/items.jsonc")
+Tracker:AddItems("items/settings.json")
+Tracker:AddItems("items/promotions.json")
 
 -- Maps
-Tracker:AddMaps("maps/maps.jsonc")
+Tracker:AddMaps("maps/maps.json")
 
 -- Locations
-Tracker:AddLocations("locations/locations.jsonc")
-Tracker:AddLocations("locations/buildings.jsonc")
-Tracker:AddLocations("locations/wonders.jsonc")
+Tracker:AddLocations("locations/locations.json")
+Tracker:AddLocations("locations/buildings.json")
+Tracker:AddLocations("locations/wonders.json")
+Tracker:AddLocations("locations/units.json")
+Tracker:AddLocations("locations/promotions.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/items.jsonc")
 Tracker:AddLayouts("layouts/tracker.jsonc")
 Tracker:AddLayouts("layouts/broadcast.jsonc")
+Tracker:AddLayouts("layouts/settings.json")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then

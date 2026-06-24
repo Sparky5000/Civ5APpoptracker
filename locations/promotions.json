@@ -1,0 +1,1766 @@
+[
+    {
+        "name": "Promotionsanity",
+        "children": [
+            {
+                "name": "Archer AP A1",
+                "access_rules": ["$COMBATCLASS|Archer"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 20,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Archer AP A2",
+                "access_rules": ["$COMBATCLASS|Archer, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 20,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Archer AP A3",
+                "access_rules": ["$COMBATCLASS|Archer, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 20,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Archer AP A4",
+                "access_rules": ["$COMBATCLASS|Archer, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 20,
+                        "y": 186
+                    }
+                ]
+            },
+            {
+                "name": "Archer AP B1",
+                "access_rules": ["$COMBATCLASS|Archer"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 58,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Archer AP B2",
+                "access_rules": ["$COMBATCLASS|Archer, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 58,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Archer AP B3",
+                "access_rules": ["$COMBATCLASS|Archer, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 58,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Armor AP A1",
+                "access_rules": ["$COMBATCLASS|Armor"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 105,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Armor AP A2",
+                "access_rules": ["$COMBATCLASS|Armor, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 105,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Armor AP A3",
+                "access_rules": ["$COMBATCLASS|Armor, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 105,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Armor AP A4",
+                "access_rules": ["$COMBATCLASS|Armor, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 105,
+                        "y": 186
+                    }
+                ]
+            },
+            {
+                "name": "Armor AP B1",
+                "access_rules": ["$COMBATCLASS|Armor"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 143,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Armor AP B2",
+                "access_rules": ["$COMBATCLASS|Armor, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 143,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Armor AP B3",
+                "access_rules": ["$COMBATCLASS|Armor, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 143,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Bomber AP A1",
+                "access_rules": ["$COMBATCLASS|Bomber"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 190,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Bomber AP A2",
+                "access_rules": ["$COMBATCLASS|Bomber, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 190,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Bomber AP A3",
+                "access_rules": ["$COMBATCLASS|Bomber, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 190,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Bomber AP A4",
+                "access_rules": ["$COMBATCLASS|Bomber, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 190,
+                        "y": 186
+                    }
+                ]
+            },
+            {
+                "name": "Bomber AP B1",
+                "access_rules": ["$COMBATCLASS|Bomber"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 228,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Bomber AP B2",
+                "access_rules": ["$COMBATCLASS|Bomber, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 228,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Bomber AP B3",
+                "access_rules": ["$COMBATCLASS|Bomber, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 228,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Carrier AP A1",
+                "access_rules": ["$COMBATCLASS|Carrier"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 294,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Carrier AP A2",
+                "access_rules": ["$COMBATCLASS|Carrier, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 294,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Carrier AP A3",
+                "access_rules": ["$COMBATCLASS|Carrier, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 294,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Fighter AP A1",
+                "access_rules": ["$COMBATCLASS|Fighter"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 360,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Fighter AP A2",
+                "access_rules": ["$COMBATCLASS|Fighter, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 360,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Fighter AP A3",
+                "access_rules": ["$COMBATCLASS|Fighter, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 360,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Fighter AP A4",
+                "access_rules": ["$COMBATCLASS|Fighter, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 360,
+                        "y": 186
+                    }
+                ]
+            },
+            {
+                "name": "Fighter AP B1",
+                "access_rules": ["$COMBATCLASS|Fighter"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 398,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Fighter AP B2",
+                "access_rules": ["$COMBATCLASS|Fighter, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 398,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Fighter AP B3",
+                "access_rules": ["$COMBATCLASS|Fighter, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 398,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Gun AP A1",
+                "access_rules": ["$COMBATCLASS|Gun"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 445,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Gun AP A2",
+                "access_rules": ["$COMBATCLASS|Gun, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 445,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Gun AP A3",
+                "access_rules": ["$COMBATCLASS|Gun, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 445,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Gun AP A4",
+                "access_rules": ["$COMBATCLASS|Gun, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 445,
+                        "y": 186
+                    }
+                ]
+            },
+            {
+                "name": "Gun AP B1",
+                "access_rules": ["$COMBATCLASS|Gun"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 483,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Gun AP B2",
+                "access_rules": ["$COMBATCLASS|Gun, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 483,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Gun AP B3",
+                "access_rules": ["$COMBATCLASS|Gun, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 483,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Helicopter AP A1",
+                "access_rules": ["$COMBATCLASS|Heli"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 549,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Helicopter AP A2",
+                "access_rules": ["$COMBATCLASS|Heli, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 549,
+                        "y": 90
+                    }
+                ]
+            },
+            {
+                "name": "Helicopter AP A3",
+                "access_rules": ["$COMBATCLASS|Heli, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 549,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "Melee AP A1",
+                "access_rules": ["$COMBATCLASS|Melee"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 20,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Melee AP A2",
+                "access_rules": ["$COMBATCLASS|Melee, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 20,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Melee AP A3",
+                "access_rules": ["$COMBATCLASS|Melee, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 20,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Melee AP A4",
+                "access_rules": ["$COMBATCLASS|Melee, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 20,
+                        "y": 390
+                    }
+                ]
+            },
+            {
+                "name": "Melee AP B1",
+                "access_rules": ["$COMBATCLASS|Melee"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 58,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Melee AP B2",
+                "access_rules": ["$COMBATCLASS|Melee, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 58,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Melee AP B3",
+                "access_rules": ["$COMBATCLASS|Melee, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 58,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Mounted AP A1",
+                "access_rules": ["$COMBATCLASS|Mounted"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 105,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Mounted AP A2",
+                "access_rules": ["$COMBATCLASS|Mounted, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 105,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Mounted AP A3",
+                "access_rules": ["$COMBATCLASS|Mounted, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 105,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Mounted AP A4",
+                "access_rules": ["$COMBATCLASS|Mounted, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 105,
+                        "y": 390
+                    }
+                ]
+            },
+            {
+                "name": "Mounted AP B1",
+                "access_rules": ["$COMBATCLASS|Mounted"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 143,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Mounted AP B2",
+                "access_rules": ["$COMBATCLASS|Mounted, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 143,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Mounted AP B3",
+                "access_rules": ["$COMBATCLASS|Mounted, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 143,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Naval Melee AP A1",
+                "access_rules": ["$COMBATCLASS|NavalM"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 190,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Naval Melee AP A2",
+                "access_rules": ["$COMBATCLASS|NavalM, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 190,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Naval Melee AP A3",
+                "access_rules": ["$COMBATCLASS|NavalM, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 190,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Naval Melee AP A4",
+                "access_rules": ["$COMBATCLASS|NavalM, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 190,
+                        "y": 390
+                    }
+                ]
+            },
+            {
+                "name": "Naval Melee AP B1",
+                "access_rules": ["$COMBATCLASS|NavalM"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 228,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Naval Melee AP B2",
+                "access_rules": ["$COMBATCLASS|NavalM, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 228,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Naval Melee AP B3",
+                "access_rules": ["$COMBATCLASS|NavalM, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 228,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Naval Ranged AP A1",
+                "access_rules": ["$COMBATCLASS|NavalR"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 275,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Naval Ranged AP A2",
+                "access_rules": ["$COMBATCLASS|NavalR, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 275,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Naval Ranged AP A3",
+                "access_rules": ["$COMBATCLASS|NavalR, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 275,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Naval Ranged AP A4",
+                "access_rules": ["$COMBATCLASS|NavalR, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 275,
+                        "y": 390
+                    }
+                ]
+            },
+            {
+                "name": "Naval Ranged AP B1",
+                "access_rules": ["$COMBATCLASS|NavalR"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 313,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Naval Ranged AP B2",
+                "access_rules": ["$COMBATCLASS|NavalR, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 313,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Naval Ranged AP B3",
+                "access_rules": ["$COMBATCLASS|NavalR, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 313,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Recon AP A1",
+                "access_rules": ["$COMBATCLASS|Recon"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 379,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Recon AP A2",
+                "access_rules": ["$COMBATCLASS|Recon, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 379,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Recon AP A3",
+                "access_rules": ["$COMBATCLASS|Recon, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 379,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Siege AP A1",
+                "access_rules": ["$COMBATCLASS|Siege"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 445,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Siege AP A2",
+                "access_rules": ["$COMBATCLASS|Siege, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 445,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Siege AP A3",
+                "access_rules": ["$COMBATCLASS|Siege, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 445,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Siege AP A4",
+                "access_rules": ["$COMBATCLASS|Siege, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 445,
+                        "y": 390
+                    }
+                ]
+            },
+            {
+                "name": "Siege AP B1",
+                "access_rules": ["$COMBATCLASS|Siege"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 483,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Siege AP B2",
+                "access_rules": ["$COMBATCLASS|Siege, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 483,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Siege AP B3",
+                "access_rules": ["$COMBATCLASS|Siege, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 483,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Submarine AP A1",
+                "access_rules": ["$COMBATCLASS|Sub"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 549,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Submarine AP A2",
+                "access_rules": ["$COMBATCLASS|Sub, $BARRACKS"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 549,
+                        "y": 294
+                    }
+                ]
+            },
+            {
+                "name": "Submarine AP A3",
+                "access_rules": ["$COMBATCLASS|Sub, $ARMORY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 549,
+                        "y": 342
+                    }
+                ]
+            },
+            {
+                "name": "Submarine AP A4",
+                "access_rules": ["$COMBATCLASS|Sub, $MILITARY_ACADEMY"],
+                "sections": [
+                    {
+                        "name": "promotion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 549,
+                        "y": 390
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CombatClassDisplay",
+        "chest_unopened_img": "images/promotions/BlankIcon.png",
+        "chest_opened_img": "images/promotions/BlankIcon.png",
+        "children": [
+            {
+                "name": "Archer",
+                "sections": [
+                    {
+                        "name": "Archer",
+                        "access_rules": ["$ARCHER"]
+                    },
+                    {
+                        "name": "Bazooka",
+                        "access_rules": ["$BAZOOKA"]
+                    },
+                    {
+                        "name": "Chariot Archer",
+                        "access_rules": ["$CHARIOT_ARCHER"]
+                    },
+                    {
+                        "name": "Composite Bowman",
+                        "access_rules": ["$COMPOSITE_BOWMAN"]
+                    },
+                    {
+                        "name": "Crossbowman",
+                        "access_rules": ["$CROSSBOWMAN"]
+                    },
+                    {
+                        "name": "Gatling Gun",
+                        "access_rules": ["$GATLING_GUN"]
+                    },
+                    {
+                        "name": "Machine Gun",
+                        "access_rules": ["$MACHINE_GUN"]
+                    }
+                ],
+                "map_locations":[
+                    {
+                        "map": "Promotions",
+                        "x": 65,
+                        "y": 14,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Armor",
+                "sections": [
+                    {
+                        "name": "Giant Death Robot",
+                        "access_rules": ["$GIANT_DEATH_ROBOT"]
+                    },
+                    {
+                        "name": "Landship",
+                        "access_rules": ["$LANDSHIP"]
+                    },
+                    {
+                        "name": "Modern Armor",
+                        "access_rules": ["$MODERN_ARMOR"]
+                    },
+                    {
+                        "name": "Tank",
+                        "access_rules": ["$TANK"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 148,
+                        "y": 14,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Bomber",
+                "sections": [
+                    {
+                        "name": "Bomber",
+                        "access_rules": ["$BOMBER"]
+                    },
+                    {
+                        "name": "Great War Bomber",
+                        "access_rules": ["$GREAT_WAR_BOMBER"]
+                    },
+                    {
+                        "name": "Stealth Bomber",
+                        "access_rules": ["$STEALTH_BOMBER"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 236,
+                        "y": 14,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Carrier",
+                "sections": [
+                    {
+                        "name": "Carrier",
+                        "access_rules": ["$CARRIER"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 319,
+                        "y": 14,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Fighter",
+                "sections": [
+                    {
+                        "name": "Fighter",
+                        "access_rules": ["$FIGHTER"]
+                    },
+                    {
+                        "name": "Jet Fighter",
+                        "access_rules": ["$JET_FIGHTER"]
+                    },
+                    {
+                        "name": "Triplane",
+                        "access_rules": ["$TRIPLANE"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 404,
+                        "y": 14,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Gunpowder",
+                "sections": [
+                    {
+                        "name": "Anti-Aircraft Gun",
+                        "access_rules": ["$ANTI_AIRCRAFT_GUN"]
+                    },
+                    {
+                        "name": "Anti-Tank Gun",
+                        "access_rules": ["$ANTI_TANK_GUN"]
+                    },
+                    {
+                        "name": "Great War Infantry",
+                        "access_rules": ["$GREAT_WAR_INFANTRY"]
+                    },
+                    {
+                        "name": "Infantry",
+                        "access_rules": ["$INFANTRY"]
+                    },
+                    {
+                        "name": "Marine",
+                        "access_rules": ["$MARINE"]
+                    },
+                    {
+                        "name": "Mechanized Infantry",
+                        "access_rules": ["$MECHANIZED_INFANTRY"]
+                    },
+                    {
+                        "name": "Mobile SAM",
+                        "access_rules": ["$MOBILE_SAM"]
+                    },
+                    {
+                        "name": "Musketman",
+                        "access_rules": ["$MUSKETMAN"]
+                    },
+                    {
+                        "name": "Paratrooper",
+                        "access_rules": ["$PARATROOPER"]
+                    },
+                    {
+                        "name": "Rifleman",
+                        "access_rules": ["$RIFLEMAN"]
+                    },
+                    {
+                        "name": "XCOM Squad",
+                        "access_rules": ["$XCOM_SQUAD"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 501,
+                        "y": 14,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Helicopter",
+                "sections": [
+                    {
+                        "name": "Helicopter Gunship",
+                        "access_rules": ["$HELICOPTER_GUNSHIP"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 582,
+                        "y": 14,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Melee",
+                "sections": [
+                    {
+                        "name": "Landsknecht",
+                        "access_rules": ["$LANDSKNECHT"]
+                    },
+                    {
+                        "name": "Longswordsman",
+                        "access_rules": ["$LONGSWORDSMAN"]
+                    },
+                    {
+                        "name": "Pikeman",
+                        "access_rules": ["$PIKEMAN"]
+                    },
+                    {
+                        "name": "Spearman",
+                        "access_rules": ["$SPEARMAN"]
+                    },
+                    {
+                        "name": "SWORDSMAN",
+                        "access_rules": ["$SWORDSMAN"]
+                    },
+                    {
+                        "name": "Warrior",
+                        "access_rules": ["$WARRIOR"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 62,
+                        "y": 217,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Mounted",
+                "sections": [
+                    {
+                        "name": "Cavalry",
+                        "access_rules": ["$CAVALRY"]
+                    },
+                    {
+                        "name": "Horseman",
+                        "access_rules": ["$HORSEMAN"]
+                    },
+                    {
+                        "name": "Knight",
+                        "access_rules": ["$KNIGHT"]
+                    },
+                    {
+                        "name": "Lancer",
+                        "access_rules": ["$LANCER"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 154,
+                        "y": 217,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Naval Melee",
+                "sections": [
+                    {
+                        "name": "Caravel",
+                        "access_rules": ["$CARAVEL"]
+                    },
+                    {
+                        "name": "Destroyer",
+                        "access_rules": ["$DESTROYER"]
+                    },
+                    {
+                        "name": "Ironclad",
+                        "access_rules": ["$IRONCLAD"]
+                    },
+                    {
+                        "name": "Privateer",
+                        "access_rules": ["$PRIVATEER"]
+                    },
+                    {
+                        "name": "Trireme",
+                        "access_rules": ["$TRIREME"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 249,
+                        "y": 217,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Naval Ranged",
+                "sections": [
+                    {
+                        "name": "Battleship",
+                        "access_rules": ["$BATTLESHIP"]
+                    },
+                    {
+                        "name": "Frigate",
+                        "access_rules": ["$FRIGATE"]
+                    },
+                    {
+                        "name": "Galleass",
+                        "access_rules": ["$GALLEASS"]
+                    },
+                    {
+                        "name": "Missile Cruiser",
+                        "access_rules": ["$MISSILE_CRUISER"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 340,
+                        "y": 217,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Recon",
+                "sections": [
+                    {
+                        "name": "Scout",
+                        "access_rules": ["$SCOUT"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 403,
+                        "y": 217,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Siege",
+                "sections": [
+                    {
+                        "name": "Artillery",
+                        "access_rules": ["$ARTILLERY"]
+                    },
+                    {
+                        "name": "Cannon",
+                        "access_rules": ["$CANNON"]
+                    },
+                    {
+                        "name": "Catapult",
+                        "access_rules": ["$CATAPULT"]
+                    },
+                    {
+                        "name": "Rocket Artillery",
+                        "access_rules": ["$ROCKET_ARTILLERY"]
+                    },
+                    {
+                        "name": "Trebuchet",
+                        "access_rules": ["$TREBUCHET"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 486,
+                        "y": 217,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Submarine",
+                "sections": [
+                    {
+                        "name": "Nuclear Submarine",
+                        "access_rules": ["$NUCLEAR_SUBMARINE"]
+                    },
+                    {
+                        "name": "Submarine",
+                        "access_rules": ["$SUBMARINE"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Promotions",
+                        "x": 584,
+                        "y": 217,
+                        "size": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            }
+        ]
+    }
+]

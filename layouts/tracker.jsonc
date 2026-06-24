@@ -20,6 +20,15 @@
                 "type": "layout",
                 "key": "EraDisplay"
               }
+            },
+            {
+              "type": "group",
+              "header": "Progressive Settlers",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "SettlerDisplay"
+              }
             }
           ]
         },
@@ -91,6 +100,39 @@
                       "maps": [
                         "Wonders"
                       ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Units",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Units"
+                ]
+              }
+            },
+            {
+              "title": "Promotions",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "locations",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "Promotions"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "items",
+                    "content": {
+                      "type": "layout",
+                      "key": "PromotionGrid"
                     }
                   }
                 ]

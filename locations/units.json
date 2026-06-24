@@ -1,0 +1,1179 @@
+[
+    {
+        "name": "Unitsanity",
+        "children": [
+            {
+                "name": "Settler",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Used to found a city. Available from the start of the game",
+                        "visibility_rules": ["$Settler"]
+                    },
+                    {
+                        "name": "Settler #1",
+                        "visibility_rules": ["$SettlerCount|1, Settlersanity"],
+                        "access_rules": ["Ancient_Era"]
+                    },
+                    {
+                        "name": "Settler #2",
+                        "visibility_rules": ["$SettlerCount|2, Settlersanity"],
+                        "access_rules": ["Classical_Era"]
+                    },
+                    {
+                        "name": "Settler #3",
+                        "visibility_rules": ["$SettlerCount|3, Settlersanity"],
+                        "access_rules": ["Classical_Era"]
+                    },
+                    {
+                        "name": "Settler #4",
+                        "visibility_rules": ["$SettlerCount|4, Settlersanity"],
+                        "access_rules": ["Medieval_Era"]
+                    },
+                    {
+                        "name": "Settler #5",
+                        "visibility_rules": ["$SettlerCount|5, Settlersanity"],
+                        "access_rules": ["Medieval_Era"]
+                    },
+                    {
+                        "name": "Settler #6",
+                        "visibility_rules": ["$SettlerCount|6, Settlersanity"],
+                        "access_rules": ["Rennaissance_Era"]
+                    },
+                    {
+                        "name": "Settler #7",
+                        "visibility_rules": ["$SettlerCount|7, Settlersanity"],
+                        "access_rules": ["Rennaissance_Era"]
+                    },
+                    {
+                        "name": "Settler #8",
+                        "visibility_rules": ["$SettlerCount|8, Settlersanity"],
+                        "access_rules": ["Industrial_Era"]
+                    },
+                    {
+                        "name": "Settler #9",
+                        "visibility_rules": ["$SettlerCount|9, Settlersanity"],
+                        "access_rules": ["Industrial_Era"]
+                    },
+                    {
+                        "name": "Settler #10",
+                        "visibility_rules": ["$SettlerCount|10, Settlersanity"],
+                        "access_rules": ["Industrial_Era"]
+                    },
+                    {
+                        "name": "Settler #11",
+                        "visibility_rules": ["$SettlerCount|11, Settlersanity"],
+                        "access_rules": ["Modern_Era"]
+                    },
+                    {
+                        "name": "Settler #12",
+                        "visibility_rules": ["$SettlerCount|12, Settlersanity"],
+                        "access_rules": ["Modern_Era"]
+                    },
+                    {
+                        "name": "Settler #13",
+                        "visibility_rules": ["$SettlerCount|13, Settlersanity"],
+                        "access_rules": ["Modern_Era"]
+                    },
+                    {
+                        "name": "Settler #14",
+                        "visibility_rules": ["$SettlerCount|14, Settlersanity"],
+                        "access_rules": ["Atomic_Era"]
+                    },
+                    {
+                        "name": "Settler #15",
+                        "visibility_rules": ["$SettlerCount|15, Settlersanity"],
+                        "access_rules": ["Atomic_Era"]
+                    },
+                    {
+                        "name": "Settler #16",
+                        "visibility_rules": ["$SettlerCount|16, Settlersanity"],
+                        "access_rules": ["Atomic_Era"]
+                    },
+                    {
+                        "name": "Settler #17",
+                        "visibility_rules": ["$SettlerCount|17, Settlersanity"],
+                        "access_rules": ["Information_Era"]
+                    },
+                    {
+                        "name": "Settler #18",
+                        "visibility_rules": ["$SettlerCount|18, Settlersanity"],
+                        "access_rules": ["Information_Era"]
+                    },
+                    {
+                        "name": "Settler #19",
+                        "visibility_rules": ["$SettlerCount|19, Settlersanity"],
+                        "access_rules": ["Information_Era"]
+                    },
+                    {
+                        "name": "Settler #20",
+                        "visibility_rules": ["$SettlerCount|20, Settlersanity"],
+                        "access_rules": ["Information_Era"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 471
+                    }
+                ]
+            },
+            {
+                "name": "Worker",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Can contruct improvements of land tiles and roads. Available from the start of the game"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 393
+                    }
+                ]
+            },
+            {
+                "name": "Work Boat",
+                "access_rules": ["Sailing"],
+                "sections": [
+                    {
+                        "name": "Can construct improvements of water tiles. Required Tech: Sailing"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Missile Cruiser",
+                "access_rules": ["Robotics"],
+                "sections": [
+                    {
+                        "name": "Advanced naval ranged unit capable of carrying guided and nuclear missiles. Required Tech: Robotics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 846,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Nuclear Submarine",
+                "access_rules": ["Telecommunications"],
+                "sections": [
+                    {
+                        "name": "Advanced naval ranged unit capable of carrying guided and nuclear missiles. Is invisible to mose units. Required Tech: Telecommunications"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 846,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Carrier",
+                "access_rules": ["Electronics"],
+                "sections": [
+                    {
+                        "name": "Speciallized vessel that acts as a base for fighter planes and bombers. Required Tech: Electronics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Battleship",
+                "access_rules": ["Electronics, Biology"],
+                "sections": [
+                    {
+                        "name": "Powerful ranged naval unit. Requires Oil. Required Tech: Electronics, Biology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Submarine",
+                "access_rules": ["Refrigeration"],
+                "sections": [
+                    {
+                        "name": "Specialized ranged naval unit. Invisible to most other units. Required Tech: Refrigeration"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 393
+                    }
+                ]
+            },
+            {
+                "name": "Destroyer",
+                "access_rules": ["Combustion"],
+                "sections": [
+                    {
+                        "name": "Powerful naval melee unit. Required Tech: Combustion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Ironclad",
+                "access_rules": ["Steam_Power, Mining, Industrialization"],
+                "sections": [
+                    {
+                        "name": "Melee naval unit. Requires Coal. Required Tech: Steam Power, Mining, Industrialization"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 471
+                    }
+                ]
+            },
+            {
+                "name": "Frigate, Ship of the Line(England)",
+                "access_rules": ["Navigation, Mining, Iron_Working"],
+                "sections": [
+                    {
+                        "name": "Powerful Renaissance ranged naval unit. Requires Iron. Required Tech: Navigation, Mining, Iron Working"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Caravel, Nau(Portugal), Turtle Ship(Korea)",
+                "access_rules": ["Astronomy"],
+                "sections": [
+                    {
+                        "name": "Fast renaissance naval unit. Required Tech: Astronomy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Trireme, Quinquereme(Carthage)",
+                "access_rules": ["Sailing"],
+                "sections": [
+                    {
+                        "name": "First naval unit of the game. Required Tech: Sailing"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Giant Death Robot",
+                "access_rules": ["Nuclear_Fusion, Mining, Atomic_Theory"],
+                "sections": [
+                    {
+                        "name": "Ultimate Military Unit. Requires Uranium. Required Tech: Nuclear Fusion, Mining, Atomic Theory"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 846,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Nuclear Missile",
+                "access_rules": ["Advanced_Ballistics, Mining, Atomic_Theory"],
+                "sections": [
+                    {
+                        "name": "Advanced nuclear weapon. Requires Manhatten Project and 2 uranium. Required Tech: Advanced Ballistics, Mining, Atomic Theory"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 846,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Stealth Bomber",
+                "access_rules": [
+                    "Stealth, Mining, Electricity",
+                    "Stealth, [Mining], [Electrocity], Ecology"
+                ],
+                "sections": [
+                    {
+                        "name": "Advanced bomber unit. Requires aluminum. Required Tech: Stealth, Mining, Electricity"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 846,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Jet Fighter",
+                "access_rules": [
+                    "Lasers, Mining, Electrocity",
+                    "Lasers, [Mining], [Electrocity], Ecology"
+                ],
+                "sections": [
+                    {
+                        "name": "Advanced air fighter. Requires aluminum. Required Tech: Lasers, Mining, Electricity"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 846,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Guided Missile",
+                "access_rules": ["Advanced_Ballistics"],
+                "sections": [
+                    {
+                        "name": "Special one-time use bomb unit which is destroyed when it attacks. Required Tech: Advanced Ballistics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 846,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Modern Armor",
+                "access_rules": [
+                    "Lasers, Mining, Electrocity",
+                    "Lasers, [Mining], [Electrocity], Ecology"
+                ],
+                "sections": [
+                    {
+                        "name": "Advanced armored unit. Requires aluminum. Required Tech: Lasers, Mining, Electricity"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 846,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Helicopter Gunship",
+                "access_rules": [
+                    "Computers, Mining, Electricity",
+                    "Computers, [Mining], [Electricity], Ecology"
+                ],
+                "sections": [
+                    {
+                        "name": "Advanced hovering unit. Requires aluminum. Required Tech: Computers, Mining, Electricity"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Mobile SAM",
+                "access_rules": ["Rocketry"],
+                "sections": [
+                    {
+                        "name": "Advanced anti-air unit. Required Tech: Rocketry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Rocket Artillery",
+                "access_rules": [
+                    "Rocketry, Mining, Electricity",
+                    "Rocketry, [Mining], [Electricity], Ecology"
+                ],
+                "sections": [
+                    {
+                        "name": "Advanced Siege unit. Requires aluminum. Required Tech: Rocketry, Mining, Electricity"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 393
+                    }
+                ]
+            },
+            {
+                "name": "Mechanized Infantry",
+                "access_rules": ["Mobile_Tactics"],
+                "sections": [
+                    {
+                        "name": "Advanced front-line unit. Required Tech: Mobile Tactics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 846,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Atomic Bomb",
+                "access_rules": ["Nuclear_Fission, Atomic_Theory, Mining"],
+                "sections": [
+                    {
+                        "name": "First nuclear weapon of the game. Delivered viz bomber. Requires manhatten project and uranium. Required Tech: Nuclear Fission, Atomic Theory, Mining"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Bomber, B-17(America)",
+                "access_rules": ["Radar, Biology"],
+                "sections": [
+                    {
+                        "name": "Bomber unit of the Atomic era. Requires Oil. Required Tech: Radar, Biology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Fighter, Zero(Japan)",
+                "access_rules": ["Radar, Biology"],
+                "sections": [
+                    {
+                        "name": "Air fighter unit. Requires oil. Required Tech: Radar, Biology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Paratrooper",
+                "access_rules": ["Radar"],
+                "sections": [
+                    {
+                        "name": "Special front-line unit. can paradrop 9 tiles away from friendly territory. Required Tech: Radar"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Tank, Panzer(Germany)",
+                "access_rules": ["Combined_Arms, Biology"],
+                "sections": [
+                    {
+                        "name": "Fast powerful tank unit. Requires oil. Required Tech: Combined Arms, Biology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 432
+                    }
+                ]
+            },
+            {
+                "name": "Artillery",
+                "access_rules": ["Dynamite"],
+                "sections": [
+                    {
+                        "name": "Inudstrial siege unit. Required Tech: Dynamite"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Anti-Aircraft Gun",
+                "access_rules": ["Ballistics"],
+                "sections": [
+                    {
+                        "name": "Special anti-air unit. Required Tech: Ballistics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Anti-Tank Gun",
+                "access_rules": ["Combined_Arms"],
+                "sections": [
+                    {
+                        "name": "Atomic era Front-line unit. Required Techs: Combined Arms"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Infantry, Pracinha(Brazil)",
+                "access_rules": ["Plastics"],
+                "sections": [
+                    {
+                        "name": "Powerful front-line unit. Required Tech: Plastics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Cavalry, Berber Cavalry(Morocco), Comanche Riders(Shoshone), Cossack(Russia), Hussar(Austria)",
+                "access_rules": ["Military_Science, Animal_Husbandry"],
+                "sections": [
+                    {
+                        "name": "Industrial era mounted unit. Requires horses. Required Tech: Military Science, Animal Husbandry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 393
+                    }
+                ]
+            },
+            {
+                "name": "Rifleman, Carlean(Sweden), Mehal Sefari(Ethiopia), Nowegian Ski Infantry(Denmark)",
+                "access_rules": ["Rifling"],
+                "sections": [
+                    {
+                        "name": "Strong front-line unit. Required Tech: Rifling"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 510
+                    }
+                ]
+            },
+            {
+                "name": "Lancer, Hakkapeliitta(Sweden), Sipahi(Ottomans), Winged Hussar(Poland)",
+                "access_rules": ["Metallurgy, Animal_Husbandry"],
+                "sections": [
+                    {
+                        "name": "Mixed purpose mounted unit. Requires horses. Required Tech: Metallurgy, Animal Husbandry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Cannon",
+                "access_rules": ["Chemistry"],
+                "sections": [
+                    {
+                        "name": "Renaissance siege unit. Required Tech: Chemistry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Musketman, Janissary(Ottomans), Minuteman(America), Musketeer(France), Tercio(Spain)",
+                "access_rules": ["Gunpowder"],
+                "sections": [
+                    {
+                        "name": "First gunpowder infantry unit of the game. Required Tech: Gunpowder"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Longswordsman, Berserker(Denmark), Samurai(Japan)",
+                "access_rules": ["Steel, Mining, Iron_Working"],
+                "sections": [
+                    {
+                        "name": "Medieval front-line unit. Requires Iron. Required Tech: Steel, Mining, Iron Working"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 432
+                    }
+                ]
+            },
+            {
+                "name": "Trebuchet, Hwach'a(Korea)",
+                "access_rules": ["Physics"],
+                "sections": [
+                    {
+                        "name": "Medieval siege unit. Required Tech: Physics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 510
+                    }
+                ]
+            },
+            {
+                "name": "Knight, Camel Archer(Arabia), Conquistador(Spain), Keshik(Mongolia), Mandekalu Cavalry(Songhai), Naresuan's Elephant(Siam)",
+                "access_rules": ["Chivalry, Animal_Husbandry"],
+                "sections": [
+                    {
+                        "name": "Powerful medieval mounted unit. Requires horses. Required Tech: Chivalry, Animal Husbandry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Crossbowman, Chu-Ko-Nu(China), Longbowman(England)",
+                "access_rules": ["Machinery"],
+                "sections": [
+                    {
+                        "name": "Medieval ranged unit. Required Tech: Machinery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Pikeman, Impi(Zulus)",
+                "access_rules": ["Civil_Service"],
+                "sections": [
+                    {
+                        "name": "Medieval era front-line unit. Required Tech: Civil Service"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 471
+                    }
+                ]
+            },
+            {
+                "name": "Landsknecht",
+                "access_rules": ["Civil_Service, Mercenary_Army"],
+                "sections": [
+                    {
+                        "name": "front-line unit only available for purchase. Required Tech: Civil Service. Required Policy: Mercenary Army"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 393
+                    }
+                ]
+            },
+            {
+                "name": "Catapult, Ballista(Rome), Siege Tower(Assyria)",
+                "access_rules": ["Mathematics"],
+                "sections": [
+                    {
+                        "name": "First siege unit of the game. Required Tech: Mathematics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Horseman, African Forest Elephant(Carthage), Cataphract(Byzantine), Companion Cavalry(Greece)",
+                "access_rules": ["Horseback_Riding, Animal_Husbandry"],
+                "sections": [
+                    {
+                        "name": "fast and poweful classical mounted unit. Reuires horses. Required Tech: Horseback Riding, Animal Husbandry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Swordsman, Kris Swordsman(Indonesia), Legion(Rome), Mohawk Warrior(Iroquois)",
+                "access_rules": ["Iron_Working, Mining"],
+                "sections": [
+                    {
+                        "name": "Strong classical front-line unit. Requires iron. Required Tech: Iron Working, Mining"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Chariot Archer, Horse Archer(Huns), War Chariot(Egypt), War Elephant(India)",
+                "access_rules": ["The_Wheel, Animal_Husbandry"],
+                "sections": [
+                    {
+                        "name": "Fast ranged unit. Requires horses. Required Tech: The Wheel, Animal Husbandry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 159
+                    }
+                ]
+            },
+            {
+                "name": "Spearman, Battering Ram(Huns), Hoplite(Greece), Immortal(Persia), Pictish Warrior(Celts)",
+                "access_rules": ["Bronze_Working"],
+                "sections": [
+                    {
+                        "name": "First upgraded melee unit available in the game. Required Tech: Bronze Working"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Archer, Atlatist(Maya), Bowman(Babylon), Stinger(inca)",
+                "access_rules": ["Archery"],
+                "sections": [
+                    {
+                        "name": "First ranged unit in the game. Required Tech: Archery"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Scout, Pathfinder(Shoshone)",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Exploration unit. Available from the start of the game"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Warrior, Jaguar(Aztecs), Maon Warrior(Polynesia)",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "First melee unit. Available from the star of the game"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Composite Bowman",
+                "access_rules": ["Construction"],
+                "sections": [
+                    {
+                        "name": "Classical ranged unit. Required Tech: Construction"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Galleas, Great Galleas(Venice)",
+                "access_rules": ["Compass"],
+                "sections": [
+                    {
+                        "name": "First ranged naval unit. Required Tech: Compass"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 186,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Great War Infantry",
+                "access_rules": ["Replaceable_Parts"],
+                "sections": [
+                    {
+                        "name": "Modern front-line unit. Required Tech: Replaceable Parts"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Marine",
+                "access_rules": ["Penicillin"],
+                "sections": [
+                    {
+                        "name": "Special front-line unit of the atomic era. Required Tech: Penicillin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 276
+                    }
+                ]
+            },
+            {
+                "name": "Triplane",
+                "access_rules": ["Flight, Biology"],
+                "sections": [
+                    {
+                        "name": "First fighter available in the game. Requires oil. Required Tech: Flight, Biology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 432
+                    }
+                ]
+            },
+            {
+                "name": "Great War Bomber",
+                "access_rules": ["Flight, Biology"],
+                "sections": [
+                    {
+                        "name": "First bomber unit. Requires Oil. Required Tech: Flight, Biology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 198
+                    }
+                ]
+            },
+            {
+                "name": "Landship",
+                "access_rules": ["Combustion, Biology"],
+                "sections": [
+                    {
+                        "name": "Tank unit of the modern era. Requires Oil. Required Tech: Combustion, Biology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Machine Gun",
+                "access_rules": ["Ballistics"],
+                "sections": [
+                    {
+                        "name": "Powerful modern ranged unit. Required Tech: Ballistics"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 516,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Privateer, Sea Beggar(Netherlands)",
+                "access_rules": ["Navigation"],
+                "sections": [
+                    {
+                        "name": "Renaissance naval unit. Required Tech: Navigation"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Gatling Gun",
+                "access_rules": ["Industrialization"],
+                "sections": [
+                    {
+                        "name": "Industrial ranged unit. Required Tech: Industrialization"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 432
+                    }
+                ]
+            },
+            {
+                "name": "Cargo Ship",
+                "access_rules": ["Sailing"],
+                "sections": [
+                    {
+                        "name": "Sea trading unit. Required Tech: Sailing"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Caravan",
+                "access_rules": ["Animal_Husbandry"],
+                "sections": [
+                    {
+                        "name": "Land trading unit. Required Tech: Animal Husbandry"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 21,
+                        "y": 81
+                    }
+                ]
+            },
+            {
+                "name": "Archaeologist",
+                "access_rules": ["Archaeology, Education, Writing"],
+                "sections": [
+                    {
+                        "name": "Special civilian unit for archaeological discoveries. Requires a Universary. Required Tech: Archaeology, Education, Writing"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 351,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Bazooka",
+                "access_rules": ["Nuclear_Fission"],
+                "sections": [
+                    {
+                        "name": "Advanced atomic era ranged unit. Required Tech: Nuclear Fission"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 681,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "XCOM Squad",
+                "access_rules": ["Nanotechnology"],
+                "sections": [
+                    {
+                        "name": "Advanced tactical unit of the information era. Required Tech: Nanotechnology"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Units",
+                        "x": 846,
+                        "y": 393
+                    }
+                ]
+            }
+        ]
+    }
+]

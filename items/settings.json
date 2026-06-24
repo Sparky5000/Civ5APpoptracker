@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Settlersanity",
+        "type": "toggle",
+        "img": "images/settings/settlersanity.png",
+        "codes": "Settlersanity"
+    },
+    {
+        "name": "Settler Amount",
+        "type": "consumable",
+        "img": "images/settings/MaxSettlers.png",
+        "max_quantity": 20,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 8,
+        "codes": "MaxSettlers"
+    },
+    {
+        "name": "Buildingsanity",
+        "type": "toggle",
+        "img": "images/settings/buildingsanity.png",
+        "codes": "Buildsanity"
+    },
+    {
+        "name": "Unitsanity",
+        "type": "toggle",
+        "img": "images/settings/unitsanity.png",
+        "codes": "Unitsanity"
+    },
+    {
+        "name": "WorldWondersanity",
+        "type": "toggle",
+        "img": "images/settings/WWondersanity.png",
+        "codes": "WWondersanity"
+    },
+    {
+        "name": "NationalWondersanity",
+        "type": "toggle",
+        "img": "images/settings/NWondersanity.png",
+        "codes": "NWondersanity"
+    },
+    {
+        "name": "Promotionsanity",
+        "type": "toggle",
+        "img": "images/settings/Promosanity.png",
+        "codes": "Promosanity"
+    },
+    {
+        "name": "Deathlink",
+        "type": "toggle",
+        "img": "images/settings/Deathlink.png",
+        "codes": "Deathlink"
+    }
+]

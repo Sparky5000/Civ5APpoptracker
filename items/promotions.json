@@ -1,0 +1,500 @@
+[
+    {
+        "name": "Accuracy I",
+        "type": "toggle",
+        "img": "images/promotions/AccuracyI.png",
+        "codes": "AccuracyI"
+    },
+    {
+        "name": "Accuracy II",
+        "type": "toggle",
+        "img": "images/promotions/AccuracyII.png",
+        "codes": "AccuracyII"
+    },
+    {
+        "name": "Accuracy III",
+        "type": "toggle",
+        "img": "images/promotions/AccuracyIII.png",
+        "codes": "AccuracyIII"
+    },
+    {
+        "name": "Air Ambush I",
+        "type": "toggle",
+        "img": "images/promotions/AmbushI.png",
+        "codes": "AirAmbushI"
+    },
+    {
+        "name": "Air Ambush II",
+        "type": "toggle",
+        "img": "images/promotions/AmbushII.png",
+        "codes": "AirAmbushII"
+    },
+    {
+        "name": "Air Logistics",
+        "type": "toggle",
+        "img": "images/promotions/Logistics.png",
+        "codes": "AirLogistics"
+    },
+    {
+        "name": "Air Range",
+        "type": "toggle",
+        "img": "images/promotions/Range.png",
+        "codes": "AirRange"
+    },
+    {
+        "name": "Air Repair",
+        "type": "toggle",
+        "img": "images/promotions/Repair.png",
+        "codes": "AirRepair"
+    },
+    {
+        "name": "Air Siege I",
+        "type": "toggle",
+        "img": "images/promotions/Siege.png",
+        "codes": "AirSiegeI"
+    },
+    {
+        "name": "Air Siege II",
+        "type": "toggle",
+        "img": "images/promotions/SiegeII.png",
+        "codes": "AirSiegeII"
+    },
+    {
+        "name": "Air Siege III",
+        "type": "toggle",
+        "img": "images/promotions/SiegeIII.png",
+        "codes": "AirSiegeIII"
+    },
+    {
+        "name": "Air Targeting I",
+        "type": "toggle",
+        "img": "images/promotions/TargetingI.png",
+        "codes": "AirTargetingI"
+    },
+    {
+        "name": "Air Targeting II",
+        "type": "toggle",
+        "img": "images/promotions/TargetingII.png",
+        "codes": "AirTargetingII"
+    },
+    {
+        "name": "Ambush I",
+        "type": "toggle",
+        "img": "images/promotions/AmbushI.png",
+        "codes": "AmbushI"
+    },
+    {
+        "name": "Ambush II",
+        "type": "toggle",
+        "img": "images/promotions/AmbushII.png",
+        "codes": "AmbushII"
+    },
+    {
+        "name": "Amphibious",
+        "type": "toggle",
+        "img": "images/promotions/Amphibious.png",
+        "codes": "Amphibious"
+    },
+    {
+        "name": "Armor Plating I",
+        "type": "toggle",
+        "img": "images/promotions/ArmorPlatingI.png",
+        "codes": "ArmorPlatingI"
+    },
+    {
+        "name": "Armor Plating II",
+        "type": "toggle",
+        "img": "images/promotions/ArmorPlatingII.png",
+        "codes": "ArmorPlatingII"
+    },
+    {
+        "name": "Armor Plating III",
+        "type": "toggle",
+        "img": "images/promotions/ArmorPlatingIII.png",
+        "codes": "ArmorPlatingIII"
+    },
+    {
+        "name": "Barrage I",
+        "type": "toggle",
+        "img": "images/promotions/BarrageI.png",
+        "codes": "BarrageI"
+    },
+    {
+        "name": "Barrage II",
+        "type": "toggle",
+        "img": "images/promotions/BarrageII.png",
+        "codes": "BarrageII"
+    },
+    {
+        "name": "Barrage III",
+        "type": "toggle",
+        "img": "images/promotions/BarrageIII.png",
+        "codes": "BarrageIII"
+    },
+    {
+        "name": "Blitz",
+        "type": "toggle",
+        "img": "images/promotions/Blitz.png",
+        "codes": "Blitz"
+    },
+    {
+        "name": "Boarding Party I",
+        "type": "toggle",
+        "img": "images/promotions/BoardingPartyI.png",
+        "codes": "BoardingPartyI"
+    },
+    {
+        "name": "Boarding Party II",
+        "type": "toggle",
+        "img": "images/promotions/BoardingPartyII.png",
+        "codes": "BoardingPartyII"
+    },
+    {
+        "name": "Boarding Party III",
+        "type": "toggle",
+        "img": "images/promotions/BoardingPartyIII.png",
+        "codes": "BoardingPartyIII"
+    },
+    {
+        "name": "Bombardment I",
+        "type": "toggle",
+        "img": "images/promotions/BombardmentI.png",
+        "codes": "BombardmentI"
+    },
+    {
+        "name": "Bombardment II",
+        "type": "toggle",
+        "img": "images/promotions/BombardmentII.png",
+        "codes": "BombardmentII"
+    },
+    {
+        "name": "BombardmentIII",
+        "type": "toggle",
+        "img": "images/promotions/BombardmentIII.png",
+        "codes": "BombardmentIII"
+    },
+    {
+        "name": "Charge",
+        "type": "toggle",
+        "img": "images/promotions/Charge.png",
+        "codes": "Charge"
+    },
+    {
+        "name": "Coastal Raider I",
+        "type": "toggle",
+        "img": "images/promotions/CoastalRaiderI.png",
+        "codes": "CoastalRaiderI"
+    },
+    {
+        "name": "Coastal Raider II",
+        "type": "toggle",
+        "img": "images/promotions/CoastalRaiderII.png",
+        "codes": "CoastalRaiderII"
+    },
+    {
+        "name": "Coastal Raider III",
+        "type": "toggle",
+        "img": "images/promotions/CoastalRaiderIII.png",
+        "codes": "CoastalRaiderIII"
+    },
+    {
+        "name": "Cover I",
+        "type": "toggle",
+        "img": "images/promotions/CoverI.png",
+        "codes": "CoverI"
+    },
+    {
+        "name": "Cover II",
+        "type": "toggle",
+        "img": "images/promotions/CoverII.png",
+        "codes": "CoverII"
+    },
+    {
+        "name": "Dogfighting I",
+        "type": "toggle",
+        "img": "images/promotions/DogfightingI.png",
+        "codes": "DogfightingI"
+    },
+    {
+        "name": "Dogfighting II",
+        "type": "toggle",
+        "img": "images/promotions/DogfightingII.png",
+        "codes": "DogfightingII"
+    },
+    {
+        "name": "Dogfighting III",
+        "type": "toggle",
+        "img": "images/promotions/DogfightingIII.png",
+        "codes": "DogfightingIII"
+    },
+    {
+        "name": "Drill I",
+        "type": "toggle",
+        "img": "images/promotions/DrillI.png",
+        "codes": "DrillI"
+    },
+    {
+        "name": "Drill II",
+        "type": "toggle",
+        "img": "images/promotions/DrillII.png",
+        "codes": "DrillII"
+    },
+    {
+        "name": "Drill III",
+        "type": "toggle",
+        "img": "images/promotions/DrillIII.png",
+        "codes": "DrillIII"
+    },
+    {
+        "name": "Evasion",
+        "type": "toggle",
+        "img": "images/promotions/Evasion.png",
+        "codes": "Evasion"
+    },
+    {
+        "name": "Flight Deck I",
+        "type": "toggle",
+        "img": "images/promotions/FlightDeckI.png",
+        "codes": "FlightDeckI"
+    },
+    {
+        "name": "Flight Deck II",
+        "type": "toggle",
+        "img": "images/promotions/FlightDeckII.png",
+        "codes": "FlightDeckII"
+    },
+    {
+        "name": "Flight Deck III",
+        "type": "toggle",
+        "img": "images/promotions/FlightDeckIII.png",
+        "codes": "FlightDeckIII"
+    },
+    {
+        "name": "Formation I",
+        "type": "toggle",
+        "img": "images/promotions/FormationI.png",
+        "codes": "FormationI"
+    },
+    {
+        "name": "Formation II",
+        "type": "toggle",
+        "img": "images/promotions/FormationII.png",
+        "codes": "FormationII"
+    },
+    {
+        "name": "Heli Ambush I",
+        "type": "toggle",
+        "img": "images/promotions/AmbushI.png",
+        "codes": "HeliAmbushI"
+    },
+    {
+        "name": "Heli Ambush II",
+        "type": "toggle",
+        "img": "images/promotions/AmbushII.png",
+        "codes": "HeliAmbushII"
+    },
+    {
+        "name": "Heli Mobility I",
+        "type": "toggle",
+        "img": "images/promotions/Mobility.png",
+        "codes": "HeliMobilityI"
+    },
+    {
+        "name": "Heli Mobility II",
+        "type": "toggle",
+        "img": "images/promotions/Mobility.png",
+        "codes": "HeliMobilityII"
+    },
+    {
+        "name": "Heli Repair",
+        "type": "toggle",
+        "img": "images/promotions/Repair.png",
+        "codes": "HeliRepair"
+    },
+    {
+        "name": "Interception I",
+        "type": "toggle",
+        "img": "images/promotions/InterceptionI.png",
+        "codes": "InterceptionI"
+    },
+    {
+        "name": "InterceptionII",
+        "type": "toggle",
+        "img": "images/promotions/InterceptionII.png",
+        "codes": "InterceptionII"
+    },
+    {
+        "name": "InterceptionIII",
+        "type": "toggle",
+        "img": "images/promotions/InterceptionIII.png",
+        "codes": "InterceptionIII"
+    },
+    {
+        "name": "Logistics",
+        "type": "toggle",
+        "img": "images/promotions/Logistics.png",
+        "codes": "Logistics"
+    },
+    {
+        "name": "March",
+        "type": "toggle",
+        "img": "images/promotions/March.png",
+        "codes": "March"
+    },
+    {
+        "name": "Medic I",
+        "type": "toggle",
+        "img": "images/promotions/Medic.png",
+        "codes": "MedicI"
+    },
+    {
+        "name": "Medic II",
+        "type": "toggle",
+        "img": "images/promotions/Medic.png",
+        "codes": "MedicII"
+    },
+    {
+        "name": "Mobility",
+        "type": "toggle",
+        "img": "images/promotions/Mobility.png",
+        "codes": "Mobility"
+    },
+    {
+        "name": "Range",
+        "type": "toggle",
+        "img": "images/promotions/Range.png",
+        "codes": "Range"
+    },
+    {
+        "name": "Repair",
+        "type": "toggle",
+        "img": "images/promotions/Repair.png",
+        "codes": "Repair"
+    },
+    {
+        "name": "Scouting I",
+        "type": "toggle",
+        "img": "images/promotions/ScoutingI.png",
+        "codes": "ScoutingI"
+    },
+    {
+        "name": "Scouting II",
+        "type": "toggle",
+        "img": "images/promotions/ScoutingII.png",
+        "codes": "ScoutingII"
+    },
+    {
+        "name": "Scouting III",
+        "type": "toggle",
+        "img": "images/promotions/ScoutingIII.png",
+        "codes": "ScoutingIII"
+    },
+    {
+        "name": "Sentry",
+        "type": "toggle",
+        "img": "images/promotions/Sentry.png",
+        "codes": "Sentry"
+    },
+    {
+        "name": "Shock I",
+        "type": "toggle",
+        "img": "images/promotions/ShockI.png",
+        "codes": "ShockI"
+    },
+    {
+        "name": "Shock II",
+        "type": "toggle",
+        "img": "images/promotions/ShockII.png",
+        "codes": "ShockII"
+    },
+    {
+        "name": "ShockIII",
+        "type": "toggle",
+        "img": "images/promotions/ShockIII.png",
+        "codes": "ShockIII"
+    },
+    {
+        "name": "Siege",
+        "type": "toggle",
+        "img": "images/promotions/Siege.png",
+        "codes": "Siege"
+    },
+    {
+        "name": "Sortie",
+        "type": "toggle",
+        "img": "images/promotions/Sortie.png",
+        "codes": "Sortie"
+    },
+    {
+        "name": "Supply",
+        "type": "toggle",
+        "img": "images/promotions/Supply.png",
+        "codes": "Supply"
+    },
+    {
+        "name": "Survivalism I",
+        "type": "toggle",
+        "img": "images/promotions/SurvivalismI.png",
+        "codes": "SurvivalismI"
+    },
+    {
+        "name": "SurvivalismII",
+        "type": "toggle",
+        "img": "images/promotions/SurvivalismII.png",
+        "codes": "SurvivalismII"
+    },
+    {
+        "name": "Survivalism III",
+        "type": "toggle",
+        "img": "images/promotions/SurvivalismIII.png",
+        "codes": "SurvivalismIII"
+    },
+    {
+        "name": "Targeting I",
+        "type": "toggle",
+        "img": "images/promotions/TargetingI.png",
+        "codes": "TargetingI"
+    },
+    {
+        "name": "Targeting II",
+        "type": "toggle",
+        "img": "images/promotions/TargetingII.png",
+        "codes": "TargetingII"
+    },
+    {
+        "name": "Targeting III",
+        "type": "toggle",
+        "img": "images/promotions/TargetingIII.png",
+        "codes": "TargetingIII"
+    },
+    {
+        "name": "Volley",
+        "type": "toggle",
+        "img": "images/promotions/Volley.png",
+        "codes": "Volley"
+    },
+    {
+        "name": "Wolfpack I",
+        "type": "toggle",
+        "img": "images/promotions/WolfpackI.png",
+        "codes": "WolfpackI"
+    },
+    {
+        "name": "Wolfpack II",
+        "type": "toggle",
+        "img": "images/promotions/WolfpackII.png",
+        "codes": "WolfpackII"
+    },
+    {
+        "name": "Wolfpack III",
+        "type": "toggle",
+        "img": "images/promotions/WolfpackIII.png",
+        "codes": "WolfpackIII"
+    },
+    {
+        "name": "Woodsman",
+        "type": "toggle",
+        "img": "images/promotions/Woodsman.png",
+        "codes": "Woodsman"
+    }
+]
