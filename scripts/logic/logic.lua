@@ -77,7 +77,7 @@ function BATTLESHIP()
     return OIL() and has("Electronics")
 end
 function SUBMARINE()
-    return OIL() and has("Refrigeration")
+    return has("Refrigeration")
 end
 function DESTROYER()
     return has("Combustion")
