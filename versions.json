@@ -1,6 +1,12 @@
 {
     "versions": [
         {
+            "package_version": "1.3.2",
+            "download_url": "https://github.com/Sparky5000/Civ5APpoptracker/archive/refs/tags/v1.3.2.zip",
+            "sha256": "9cd00acd581a5fb83d1110f65e11bc78e8798c76e7600f288a3db68d41ec55b5",
+            "changelog": ["added dromon to trireme location, uncapitolized SWORDSMAN, removed whitespace from promotion unit lists"]
+        },
+        {
             "package_version": "1.3.1",
             "download_url": "https://github.com/Sparky5000/Civ5APpoptracker/archive/refs/tags/v1.3.1.zip",
             "sha256": "14eeb3b27557438dff7081cf9bc5a04f282e041e8140fb6572418dbe7e85e8ac",
