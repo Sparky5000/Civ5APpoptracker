@@ -1342,30 +1342,44 @@
                 "sections": [
                     {
                         "name": "Archer",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$ARCHER"]
                     },
                     {
                         "name": "Bazooka",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$BAZOOKA"]
                     },
                     {
                         "name": "Chariot Archer",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$CHARIOT_ARCHER"]
                     },
                     {
                         "name": "Composite Bowman",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$COMPOSITE_BOWMAN"]
                     },
                     {
                         "name": "Crossbowman",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$CROSSBOWMAN"]
                     },
                     {
                         "name": "Gatling Gun",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$GATLING_GUN"]
                     },
                     {
                         "name": "Machine Gun",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$MACHINE_GUN"]
                     }
                 ],
@@ -1384,18 +1398,26 @@
                 "sections": [
                     {
                         "name": "Giant Death Robot",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$GIANT_DEATH_ROBOT"]
                     },
                     {
                         "name": "Landship",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$LANDSHIP"]
                     },
                     {
                         "name": "Modern Armor",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$MODERN_ARMOR"]
                     },
                     {
                         "name": "Tank",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$TANK"]
                     }
                 ],
@@ -1414,14 +1436,20 @@
                 "sections": [
                     {
                         "name": "Bomber",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$BOMBER"]
                     },
                     {
                         "name": "Great War Bomber",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$GREAT_WAR_BOMBER"]
                     },
                     {
                         "name": "Stealth Bomber",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$STEALTH_BOMBER"]
                     }
                 ],
@@ -1440,6 +1468,8 @@
                 "sections": [
                     {
                         "name": "Carrier",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$CARRIER"]
                     }
                 ],
@@ -1458,14 +1488,20 @@
                 "sections": [
                     {
                         "name": "Fighter",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$FIGHTER"]
                     },
                     {
                         "name": "Jet Fighter",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$JET_FIGHTER"]
                     },
                     {
                         "name": "Triplane",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$TRIPLANE"]
                     }
                 ],
@@ -1484,46 +1520,68 @@
                 "sections": [
                     {
                         "name": "Anti-Aircraft Gun",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$ANTI_AIRCRAFT_GUN"]
                     },
                     {
                         "name": "Anti-Tank Gun",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$ANTI_TANK_GUN"]
                     },
                     {
                         "name": "Great War Infantry",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$GREAT_WAR_INFANTRY"]
                     },
                     {
                         "name": "Infantry",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$INFANTRY"]
                     },
                     {
                         "name": "Marine",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$MARINE"]
                     },
                     {
                         "name": "Mechanized Infantry",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$MECHANIZED_INFANTRY"]
                     },
                     {
                         "name": "Mobile SAM",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$MOBILE_SAM"]
                     },
                     {
                         "name": "Musketman",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$MUSKETMAN"]
                     },
                     {
                         "name": "Paratrooper",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$PARATROOPER"]
                     },
                     {
                         "name": "Rifleman",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$RIFLEMAN"]
                     },
                     {
                         "name": "XCOM Squad",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$XCOM_SQUAD"]
                     }
                 ],
@@ -1542,6 +1600,8 @@
                 "sections": [
                     {
                         "name": "Helicopter Gunship",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$HELICOPTER_GUNSHIP"]
                     }
                 ],
@@ -1560,26 +1620,38 @@
                 "sections": [
                     {
                         "name": "Landsknecht",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$LANDSKNECHT"]
                     },
                     {
                         "name": "Longswordsman",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$LONGSWORDSMAN"]
                     },
                     {
                         "name": "Pikeman",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$PIKEMAN"]
                     },
                     {
                         "name": "Spearman",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$SPEARMAN"]
                     },
                     {
-                        "name": "SWORDSMAN",
+                        "name": "Swordsman",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$SWORDSMAN"]
                     },
                     {
                         "name": "Warrior",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$WARRIOR"]
                     }
                 ],
@@ -1598,18 +1670,26 @@
                 "sections": [
                     {
                         "name": "Cavalry",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$CAVALRY"]
                     },
                     {
                         "name": "Horseman",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$HORSEMAN"]
                     },
                     {
                         "name": "Knight",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$KNIGHT"]
                     },
                     {
                         "name": "Lancer",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$LANCER"]
                     }
                 ],
@@ -1628,22 +1708,32 @@
                 "sections": [
                     {
                         "name": "Caravel",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$CARAVEL"]
                     },
                     {
                         "name": "Destroyer",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$DESTROYER"]
                     },
                     {
                         "name": "Ironclad",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$IRONCLAD"]
                     },
                     {
                         "name": "Privateer",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$PRIVATEER"]
                     },
                     {
                         "name": "Trireme",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$TRIREME"]
                     }
                 ],
@@ -1662,18 +1752,26 @@
                 "sections": [
                     {
                         "name": "Battleship",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$BATTLESHIP"]
                     },
                     {
                         "name": "Frigate",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$FRIGATE"]
                     },
                     {
                         "name": "Galleass",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$GALLEASS"]
                     },
                     {
                         "name": "Missile Cruiser",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$MISSILE_CRUISER"]
                     }
                 ],
@@ -1692,6 +1790,8 @@
                 "sections": [
                     {
                         "name": "Scout",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$SCOUT"]
                     }
                 ],
@@ -1710,22 +1810,32 @@
                 "sections": [
                     {
                         "name": "Artillery",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$ARTILLERY"]
                     },
                     {
                         "name": "Cannon",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$CANNON"]
                     },
                     {
                         "name": "Catapult",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$CATAPULT"]
                     },
                     {
                         "name": "Rocket Artillery",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$ROCKET_ARTILLERY"]
                     },
                     {
                         "name": "Trebuchet",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$TREBUCHET"]
                     }
                 ],
@@ -1744,10 +1854,14 @@
                 "sections": [
                     {
                         "name": "Nuclear Submarine",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$NUCLEAR_SUBMARINE"]
                     },
                     {
                         "name": "Submarine",
+                        "item_height": 1,
+                        "item_width": 1,
                         "access_rules": ["$SUBMARINE"]
                     }
                 ],
